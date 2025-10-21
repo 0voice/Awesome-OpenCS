@@ -12,11 +12,9 @@
 - [计算机系统](#计算机系统)
   - [操作系统](#操作系统)
   - [体系结构](#体系结构)
-  - [内存管理](#内存管理)
 - [人工智能与机器学习](#人工智能与机器学习)
   - [机器学习](#机器学习)
   - [深度学习](#深度学习)
-  - [神经网络](#神经网络)
 - [数据库与大数据](#数据库与大数据)
   - [SQL/关系数据库](#sql关系数据库)
   - [Hadoop/大数据](#hadoop大数据)
@@ -85,38 +83,30 @@
 
 ## 计算机系统
 
-以下课程涵盖计算机系统的核心内容，包括操作系统、体系结构和内存管理，适合深入理解计算机底层原理。
+以下课程涵盖计算机系统的核心内容，包括操作系统、内存管理和体系结构，适合深入理解计算机底层原理。
 
 ### 操作系统
 
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
-|--------|------|------|------|----------|
-| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) |
-| CS162: Operating Systems and Systems Programming | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs162.eecs.berkeley.edu/) |
-| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU Course Page](http://www.cs.cmu.edu/~213/) |
-| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 | 包含内存管理 |
+|--------|------|------|------|----------|--------------|
+| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) | 是 |
+| CS162: Operating Systems and Systems Programming | UC Berkeley | 英文 | 高级 | [Berkeley](https://cs162.eecs.berkeley.edu/) | 是 |
+| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU](http://www.cs.cmu.edu/~213/) | 是 |
+| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) | 是 |
+| CS107: Computer Organization and Systems | Stanford | 英文 | 中级 | [Stanford](https://web.stanford.edu/class/cs107/) | 是（重点） |
 
 ### 体系结构
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
-| Computation Structures | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) |
-| CS61C: Great Ideas in Computer Architecture | UC Berkeley | 英文 | 中级 | [Berkeley Course Page](https://cs61c.org/) |
-| Computer Architecture | Stanford University | 英文 | 高级 | [Stanford Course Page](https://web.stanford.edu/class/cs149/) |
+| Computation Structures | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) |
+| CS61C: Great Ideas in Computer Architecture | UC Berkeley | 英文 | 中级 | [Berkeley](https://cs61c.org/) |
+| Computer Architecture | Stanford | 英文 | 高级 | [Stanford](https://web.stanford.edu/class/cs149/) |
 | 计算机组成 | 浙江大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-93001) |
 
-### 内存管理
-
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
-|--------|------|------|------|----------|
-| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) |
-| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU Course Page](http://www.cs.cmu.edu/~213/) |
-| CS107: Computer Organization and Systems | Stanford University | 英文 | 中级 | [Stanford Course Page](https://web.stanford.edu/class/cs107/) |
-| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) |
-
 #### 说明
-- **如何选择**：初学者推荐从北京大学操作系统或CS61C课程入手，内容较为直观；进阶学习者可选择MIT或CMU课程，深入系统设计。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Memory Management”），可按需跳转。
+- **如何选择**：初学者推荐从北京大学操作系统或CS61C课程入手，内容直观；进阶学习者可选择MIT或CMU课程，深入系统设计。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Memory Management”或“Lecture 5: CPU Architecture”），可按需跳转。
 
 ## 人工智能与机器学习
 
@@ -126,33 +116,24 @@
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
-| Introduction to Machine Learning | MIT | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/) |
-| Machine Learning | Andrew Ng | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/machine-learning) |
-| Machine Learning with Python | University of Michigan | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/python-machine-learning) |
+| Introduction to Machine Learning | MIT | 英文 | 中级 | [MIT OCW](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/) |
+| Machine Learning | Andrew Ng | 英文 | 中级 | [Coursera](https://www.coursera.org/learn/machine-learning) |
+| Machine Learning with Python | University of Michigan | 英文 | 中级 | [Coursera](https://www.coursera.org/learn/python-machine-learning) |
 | 机器学习基础 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529003) |
 
 ### 深度学习
 
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
-|--------|------|------|------|----------|
-| Deep Learning Specialization | DeepLearning.AI | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) |
-| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford Course Page](http://cs231n.stanford.edu/) |
-| Deep Learning | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) |
-| 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) |
-
-### 神经网络
-
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
-|--------|------|------|------|----------|
-| Neural Networks and Deep Learning | DeepLearning.AI | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/neural-networks-deep-learning) |
-| CS231n: Convolutional Neural Networks | Stanford University | 英文 | 高级 | [Stanford Course Page](http://cs231n.stanford.edu/) |
-| Introduction to Neural Networks | MIT | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) |
-| 神经网络与深度学习 | 清华大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1003598002) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 | 包含神经网络 |
+|--------|------|------|------|----------|--------------|
+| Deep Learning Specialization | DeepLearning.AI | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) | 是（重点） |
+| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford](http://cs231n.stanford.edu/) | 是 |
+| Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) | 是 |
+| 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) | 是 |
 
 #### 说明
-- **如何选择**：初学者推荐从Andrew Ng的机器学习或DeepLearning.AI课程入手，讲解通俗；进阶学习者可选择MIT或Stanford课程，深入AI技术。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 2: Neural Networks”），可按需跳转。
-
+- **如何选择**：初学者推荐从DeepLearning.AI或北京理工大学课程入手，讲解通俗；进阶学习者可选择MIT或Stanford课程，深入AI技术。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 2: Neural Networks”或“Lecture 4: CNNs”），可按需跳转。
+  
 ## 数据库与大数据
 
 以下课程涵盖数据库与大数据的核心内容，包括SQL、关系数据库和Hadoop等技术，适合学习数据管理与处理。
