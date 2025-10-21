@@ -52,6 +52,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
 | Introduction to Programming in Java | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/) |
+| Java Programming and Software Engineering Fundamentals | Duke University | 英文 | 初级 | [Coursera Course Page](https://www.coursera.org/specializations/java-programming) |
+| Object-Oriented Programming with Java | University of Helsinki | 英文 | 中级 | [MOOC.fi Course Page](https://java-programming.mooc.fi/) |
 | Java程序设计 | 北京大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1001552003) |
 | 零基础学Java语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001542001) |
 
@@ -65,7 +67,7 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 程序设计入门——C语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-199001) |
 
 #### 说明
-- **如何选择**：初学者推荐从CS50 Python或浙江大学C语言课程入手，内容通俗易懂；有一定基础的学习者可选择MIT课程，深入编程概念。
+- **如何选择**：初学者推荐从CS50 Python或浙江大学C语言课程入手，内容通俗易懂；或者自行选择需要学习的编程语言。有一定基础的学习者可选择MIT课程，深入编程概念。
 - **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 1: Variables”），可按需跳转。
 
 ## 数据结构与算法
