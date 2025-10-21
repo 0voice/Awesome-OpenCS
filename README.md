@@ -1,6 +1,9 @@
-# 国内外大学计算机公开课
+<h1 align="center">国内外大学计算机公开课</h1>
 
-精选国内外大学计算机公开课，按主题分类，涵盖编程、算法、人工智能等，免费开放，欢迎贡献！
+精选国内外大学计算机公开课，按主题分类，涵盖编程、算法、人工智能等，欢迎贡献新课程、更新链接或提出优化建议，共同打造高质量的计算机科学学习资源！
+
+## 简介
+Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，汇集了来自全球顶尖大学（如MIT、Stanford、Berkeley）和知名在线教育平台（如Coursera、edX、中国大学MOOC）的免费公开课。涵盖计算机科学核心领域，包括编程基础、数据结构与算法、计算机系统、人工智能与机器学习、数据库与大数据、网络与安全、软件工程与开发、计算机图形学、量子计算、计算理论和区块链。每个分类提供课程表格，列出课程名称、来源、语言、难度和有效链接，辅以简介和说明，指导初学者和进阶学习者选择适合的课程并导航子主题。所有链接经过验证（截至2025年10月21日），确保资源可用性，适合自学者、学生和开发者深入探索计算机科学的理论与实践。
 
 ## 目录
 
@@ -73,7 +76,7 @@
 |--------|------|------|------|----------|
 | Introduction to Algorithms | MIT | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
 | Algorithms, Part I & II | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
-| CS 61B: Data Structures | UC Berkeley | 英文 | 中级 | [Berkeley Course Page](https://cs61b.org/) |
+| CS 61B: Data Structures | UC Berkeley | 英文 | 中级 | [Berkeley Course Page](https://sp24.datastructur.es/) |
 | 数据结构与算法 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002536002) |
 | Data Structures and Algorithms in Python | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/data-structures-algorithms-1) |
 
@@ -101,7 +104,7 @@
 |--------|------|------|------|----------|
 | Computation Structures | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) |
 | CS61C: Great Ideas in Computer Architecture | UC Berkeley | 英文 | 中级 | [Berkeley](https://cs61c.org/) |
-| Computer Architecture | Stanford | 英文 | 高级 | [Stanford](https://web.stanford.edu/class/cs149/) |
+| Parallel Computing | Stanford | 英文 | 高级 | [Stanford CS149 Course Page](https://gfxcourses.stanford.edu/cs149/) |
 | 计算机组成 | 浙江大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-93001) |
 
 #### 说明
@@ -127,7 +130,7 @@
 |--------|------|------|------|----------|
 | Deep Learning Specialization | DeepLearning.AI | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) |
 | CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford](http://cs231n.stanford.edu/) |
-| Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) |
+| Introduction to Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/) 
 | 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) |
 
 #### 说明
@@ -143,7 +146,7 @@
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
 | Database Systems | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) |
-| Introduction to Databases | Stanford University | 英文 | 中级 | [Stanford Online Course Page](https://online.stanford.edu/courses/soe-ydatabases0001-introduction-databases) |
+| Introduction to Databases | Stanford University | 英文 | 中级 | [edX - Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) |
 | CS186: Introduction to Database Systems | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs186berkeley.net/) |
 | 数据库系统概论（基础篇） | 复旦大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/FUDAN-1001542002) |
 
@@ -151,9 +154,9 @@
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
-| Big Data Analysis | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-analysis) |
-| Introduction to Big Data | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/introduction-to-big-data) |
-| Big Data Technologies | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-technologies) |
+| Big Data Analysis | UC San Diego | 英文 | 中级 | [Coursera - Big Data Specialization](https://www.coursera.org/specializations/big-data) |
+| Introduction to Big Data | UC San Diego | 英文 | 中级 | [Coursera - Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction) |
+| Big Data Technologies | University of Washington | 英文 | 中级 | [Coursera - Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science) |
 | 大数据技术原理与应用 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529004) |
 
 #### 说明
@@ -179,11 +182,10 @@
 |--------|------|------|------|----------|
 | Cryptography and Cryptanalysis | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) |
 | Cybersecurity Fundamentals | RIT | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/cybersecurity-fundamentals) |
-| Cybersecurity Specialization | University of Maryland | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/cyber-security) |
-| 网络安全 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529005) |
+| 网络安全 | 北京航空航天大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BUAA-1466021165?from=searchPage&outVendor=zw_mooc_pcssjg_) |
 
 #### 说明
-- **如何选择**：初学者推荐从Coursera的计算机网络或RIT的网络安全课程入手，内容直观；进阶学习者可选择MIT或Stanford课程，深入协议与加密。
+- **如何选择**：初学者推荐从北京航空航天大学网络安全课程或RIT的网络安全课程入手，内容直观；进阶学习者可选择MIT或Stanford课程，深入协议与加密。
 - **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 6: TCP/IP”），可按需跳转。
 
 ## 软件工程与开发
@@ -196,8 +198,8 @@
 |--------|------|------|------|----------|
 | Software Engineering for Web Applications | MIT | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/) |
 | Web Development | University of Michigan | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/web-design) |
-| Full Stack Web Development | Johns Hopkins University | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/full-stack-web-development) |
-| Web开发技术 | 浙江大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001542003) |
+| Full Stack Web Development | Johns Hopkins University | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/html-css-javascript-for-web-developers) |
+| Web前端开发 | 北京林业大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/BFU-1003382003?from=searchPage&outVendor=zw_mooc_pcssjg_) |
 
 ### 软件工程
 
@@ -205,11 +207,10 @@
 |--------|------|------|------|----------|
 | Foundations of Software Engineering | MIT | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) |
 | Software Engineering: Introduction | UBC | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/software-engineering-introduction) |
-| Software Engineering | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/software-engineering) |
-| 软件工程 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529006) |
+| 软件工程 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1003177002?from=searchPage&outVendor=zw_mooc_pcssjg_#/info) |
 
 #### 说明
-- **如何选择**：初学者推荐从Coursera的Web开发或北京大学软件工程课程入手，实践性强；进阶学习者可选择MIT课程，深入软件设计。
+- **如何选择**：初学者推荐从北京林业大学的Web开发或北京大学软件工程课程入手，实践性强；进阶学习者可选择MIT课程，深入软件设计。
 - **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Web Frameworks”），可按需跳转。
 
 ## 计算机图形学
@@ -221,7 +222,7 @@
 | Computer Graphics | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) |
 | CS 184: Foundations of Computer Graphics | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
 | Computer Graphics and Imaging | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
-| 计算机图形学 | 华中科技大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/HUST-1001542004) |
+| 计算机图形学 | 华中科技大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/HUST-1003636001?from=searchPage&outVendor=zw_mooc_pcssjg_) |
 
 #### 说明
 - **如何选择**：初学者推荐从华中科技大学课程入手，内容较为基础；进阶学习者可选择MIT或Berkeley课程，深入图形学理论。
@@ -233,13 +234,12 @@
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
-| Quantum Computation | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2018/) |
-| Quantum Information Science | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-443j-quantum-information-science-spring-2016/) |
-| Introduction to Quantum Computing | University of Maryland | 英文 | 高级 | [edX Course Page](https://www.edx.org/course/introduction-to-quantum-computing) |
-| 量子计算与量子信息 | 北京大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529007) |
+| Quantum Computation | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/) |
+| Quantum Information Science | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/) |
+| 量子信息原理与应用 | 南京大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/NJU-1461811176?from=searchPage&outVendor=zw_mooc_pcssjg_) |
 
 #### 说明
-- **如何选择**：初学者推荐从University of Maryland课程入手，内容较为入门；进阶学习者可选择MIT或北京大学课程，深入量子算法。
+- **如何选择**：初学者推荐从南京大学课程入手，内容较为入门；进阶学习者可选择MIT或北京大学课程，深入量子算法。
 - **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 4: Quantum Gates”），可按需跳转。
 
 ## 计算理论
@@ -249,12 +249,12 @@
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
 | Theory of Computation | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) |
-| Automata, Computability, and Complexity | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-405j-automata-computability-and-complexity-spring-2021/) |
-| Theory of Computation | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs172.org/) |
-| 计算理论基础 | 清华大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1003598003) |
+| Automata, Computability, and Complexity | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/) |
+| Theory of Computation | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://www2.eecs.berkeley.edu/Courses/CS170/) |
+
 
 #### 说明
-- **如何选择**：初学者推荐从清华大学课程入手，内容系统性强；进阶学习者可选择MIT或Berkeley课程，深入计算复杂性。
+- **如何选择**：初学者推荐从MIT的Automata, Computability, and Complexity课程入手，内容系统性强；进阶学习者可选择Berkeley课程或MIT的Theory of Computation课程，深入计算复杂性。
 - **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 5: Turing Machines”），可按需跳转。
 
 ## 区块链
@@ -264,9 +264,9 @@
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
 | Blockchain and Money | MIT | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) |
-| Blockchain Fundamentals | UC Berkeley | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/blockchain-fundamentals) |
+| Blockchain Fundamentals | UC Berkeley | 英文 | 中级 | [edX Course Page](https://www.edx.org/certificates/professional-certificate/uc-berkeleyx-blockchain-fundamentals) |
 | Bitcoin and Cryptocurrency Technologies | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/cryptocurrency) |
-| 区块链技术与应用 | 北京大学 | 中文 | 中级 | [B站播放列表](https://www.bilibili.com/video/BV1Vt411X7JF) |
+| 区块链技术与应用 | 北京大学 | 中文 | 中级 | [B站](https://www.bilibili.com/video/BV1Vt411X7JF) |
 
 #### 说明
 - **如何选择**：初学者推荐从Princeton或北京大学课程入手，内容通俗；进阶学习者可选择MIT或Berkeley课程，深入区块链技术。
