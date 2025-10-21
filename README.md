@@ -24,9 +24,12 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 - [计算机系统](#计算机系统)
   - [操作系统](#操作系统)
   - [体系结构](#体系结构)
+- [自动驾驶](#自动驾驶)
 - [人工智能与机器学习](#人工智能与机器学习)
   - [机器学习](#机器学习)
   - [深度学习](#深度学习)
+  - [自然语言处理（NLP）](#自然语言处理nlp)
+  - [计算机视觉（CV）](#计算机视觉cv)
 - [数据库与大数据](#数据库与大数据)
   - [SQL/关系数据库](#sql关系数据库)
   - [Hadoop/大数据](#hadoop大数据)
@@ -97,7 +100,7 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 
 ## 计算机系统
 
-以下课程涵盖计算机系统的核心内容，包括操作系统、内存管理和体系结构，适合深入理解计算机底层原理。
+以下课程涵盖计算机系统的核心内容，包括操作系统、内存管理和体系结构等，适合深入理解计算机底层原理。
 
 ### 操作系统
 
@@ -122,9 +125,22 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 - **如何选择**：初学者推荐从北京大学操作系统或CS61C课程入手，内容直观；进阶学习者可选择MIT或CMU课程，深入系统设计。
 - **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Memory Management”或“Lecture 5: CPU Architecture”），可按需跳转。
 
+## 自动驾驶
+以下课程涵盖自动驾驶核心技术，包括感知、决策、控制及系统集成，适合学习自动驾驶算法与工程实践。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Self-Driving Cars Specialization | University of Toronto (Coursera) | 英文 | 中级 | [Coursera 专项课程](https://www.coursera.org/specializations/self-driving-cars) |
+| CS330: Deep Multi-Task and Meta Learning for Autonomous Driving | Stanford University | 英文 | 高级 | [Stanford CS330 官网](https://cs330.stanford.edu/) |
+| Autonomous Vehicles: Planning for Urban Driving | University of Pennsylvania (edX) | 英文 | 中级 | [edX 课程页](https://www.edx.org/course/autonomous-vehicles-planning-for-urban-driving) |
+
+#### 说明
+- **如何选择**：入门推荐University of Toronto的Coursera专项课，涵盖完整技术栈；进阶学习者可选择Stanford University的CS330（聚焦深度学习在自动驾驶中的多任务应用）或University of Pennsylvania的课程（侧重城市道路规划）。
+- **子主题导航**：课程章节通常包含“感知算法”“路径规划”“车辆控制”等子主题，可直接跳转学习。
+
 ## 人工智能与机器学习
 
-以下课程涵盖人工智能与机器学习的核心内容，包括机器学习、深度学习和神经网络，适合探索AI领域的前沿技术。
+以下课程涵盖人工智能与机器学习的核心内容，包括机器学习、深度学习和神经网络等，适合探索AI领域的前沿技术。
 
 ### 机器学习
 
@@ -144,9 +160,34 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Introduction to Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/) 
 | 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) |
 
+### 自然语言处理（NLP）
+以下课程涵盖NLP核心技术，包括文本处理、语言模型、深度学习在NLP中的应用，适合学习自然语言理解与生成。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| CS224N: Natural Language Processing with Deep Learning | Stanford University | 英文 | 高级 | [Stanford CS224N 官网](https://web.stanford.edu/class/cs224n/) |
+| Natural Language Processing Specialization | DeepLearning.AI (Coursera) | 英文 | 中级 | [Coursera 专项课程](https://www.coursera.org/specializations/natural-language-processing) |
+| NLP with Transformers | Hugging Face & Stanford University | 英文 | 中级 | [免费互动课程](https://huggingface.co/learn/nlp-course/chapter1/1) |
+| CS124: From Languages to Information | Stanford University | 英文 | 中级 | [Stanford CS124 官网](https://web.stanford.edu/class/cs124/) |
+
 #### 说明
-- **如何选择**：初学者推荐从DeepLearning.AI或北京理工大学课程入手，讲解通俗；进阶学习者可选择MIT或Stanford课程，深入AI技术。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 2: Neural Networks”或“Lecture 4: CNNs”），可按需跳转。
+- **如何选择**：零基础推荐DeepLearning.AI的专项课；深入理论与前沿技术可选择Stanford University的CS224N；实践导向推荐Hugging Face与Stanford University合作的Transformers课程。
+- **子主题导航**：课程包含“词向量”“Transformer模型”“机器翻译”等子章节，可按需学习。
+
+
+### 计算机视觉（CV）
+以下课程涵盖计算机视觉核心内容，包括图像处理、特征提取、深度学习视觉模型，适合学习视觉感知与理解技术。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford CS231n 官网](http://cs231n.stanford.edu/) |
+| ECE 408/CS 447: Computer Vision | University of Illinois Urbana-Champaign | 英文 | 中级 | [UIUC 课程页](https://courses.engr.illinois.edu/ece408/sp2024/) |
+| Computer Vision Specialization | DeepLearning.AI (Coursera) | 英文 | 中级 | [Coursera 专项课程](https://www.coursera.org/specializations/computer-vision) |
+
+#### 说明
+- **如何选择**：入门推荐DeepLearning.AI的专项课；系统学习理论与传统算法可选择University of Illinois Urbana-Champaign的ECE408/CS447；深入深度学习视觉模型优先选Stanford University的CS231n。
+- **子主题导航**：课程包含“卷积神经网络”“目标检测”“图像分割”等子主题，可直接定位学习。
+
   
 ## 数据库与大数据
 
