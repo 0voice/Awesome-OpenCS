@@ -2,7 +2,7 @@
 
 Curated open courses from top universities worldwide in computer science, categorized by topics like programming, algorithms, AI, and more. Contributions welcome for new courses, link updates, or suggestions to build a high-quality CS learning resource!
 
-**中文版链接：**[Link to Chinese README](https://github.com/0voice/Awesome-OpenCS/blob/main/README.zh.md)
+**中文版链接：**[Link to Chinese README](https://github.com/0voice/Awesome-OpenCS/blob/main/README.md)
 
 ## Introduction
 Awesome-OpenCS is a carefully curated open-source repository of computer science course resources, featuring free open courses from leading global universities (such as MIT, Stanford, Berkeley) and platforms like Coursera and edX.
