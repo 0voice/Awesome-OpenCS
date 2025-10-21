@@ -9,14 +9,6 @@
   - [Java](#java)
   - [C/C++](#cc)
 - [数据结构与算法](#数据结构与算法)
-  - [栈](#栈)
-  - [队列](#队列)
-  - [链表](#链表)
-  - [树](#树)
-  - [图](#图)
-  - [排序](#排序)
-  - [搜索](#搜索)
-  - [动态规划](#动态规划)
 - [计算机系统](#计算机系统)
   - [操作系统](#操作系统)
   - [体系结构](#体系结构)
@@ -43,6 +35,8 @@
 
 ## 编程基础
 
+以下课程涵盖编程基础的核心内容，包括Python、Java、C/C++等语言的入门知识，适合初学者快速上手。
+
 ### Python
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -57,245 +51,245 @@
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
 | Introduction to Programming in Java | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/) |
-| Java程序设计 | 北京大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1001941004) |
-| 零基础学Java语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001541001) |
+| Java程序设计 | 北京大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1001552003) |
+| 零基础学Java语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001542001) |
 
 ### C/C++
 
-| 课程名                            | 来源                | 语言 | 难度 | 课程链接 |
-| --------------------------------- | ------------------- | ---- | ---- | -------- |
-| Introduction to C and C++         | MIT                 | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-088-introduction-to-c-and-c-january-iap-2018/) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Introduction to C and C++ | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) |
 | CS 106B: Programming Abstractions | Stanford University | 英文 | 初级 | [Stanford Course Page](https://web.stanford.edu/class/cs106b/) |
-| Effective Programming In C And C++  | MIT   | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) |
-| 程序设计入门——C语言               | 浙江大学            | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-199001) |
+| Effective Programming In C And C++ | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) |
+| 程序设计入门——C语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-199001) |
+
+#### 说明
+- **如何选择**：初学者推荐从CS50 Python或浙江大学C语言课程入手，内容通俗易懂；有一定基础的学习者可选择MIT课程，深入编程概念。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 1: Variables”），可按需跳转。
 
 ## 数据结构与算法
 
-### 栈
+以下课程涵盖数据结构与算法的核心内容，包括栈、队列、链表、树、图、排序、搜索和动态规划等主题，适合学习核心计算机科学概念。
 
-| 课程名                              | 来源                 | 语言 | 难度 | 课程链接 |
-| ----------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms（栈部分） | MIT                  | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| CS50: Introduction to Computer Science (Stack Topic)         | Harvard University | 英文 | 中级 | [CS50 Course Page](https://cs50.harvard.edu/x/shorts/stacks/) |
-| CS 61B: Data Structures    | UC Berkeley          | 英文 | 中级 | [Berkeley Course Page](https://sp21.datastructur.es/) |
-| 数据结构与算法  | 北京大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002534001?from=searchPage&outVendor=zw_mooc_pcssjg_) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Introduction to Algorithms | MIT | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
+| Algorithms, Part I & II | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
+| CS 61B: Data Structures | UC Berkeley | 英文 | 中级 | [Berkeley Course Page](https://cs61b.org/) |
+| 数据结构与算法 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002536002) |
+| Data Structures and Algorithms in Python | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/data-structures-algorithms-1) |
 
-### 队列
-
-| 课程名                                | 来源                 | 语言 | 难度 | 课程链接 |
-| ------------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms（队列部分）  | MIT     | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part I (队列部分)         | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
-| CS 61B: Data Structures (队列部分)    | UC Berkeley          | 英文 | 中级 | [Berkeley Course Page](https://sp21.datastructur.es/) |
-| 数据结构与算法  | 北京大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002534001?from=searchPage&outVendor=zw_mooc_pcssjg_) |
-
-### 链表
-
-| 课程名                                              | 来源         | 语言 | 难度 | 课程链接 |
-| --------------------------------------------------- | ------------ | ---- | ---- | -------- |
-| Introduction to Algorithms (链表部分)               | MIT          | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| CS 61B: Data Structures (链表部分)                  | UC Berkeley  | 英文 | 中级 | [Berkeley Course Page](https://sp21.datastructur.es/) |
-| Data Structures and Algorithms in Python (链表部分) | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/data-structures-algorithms-python) |
-| 数据结构（链表部分）                                | 清华大学     | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1001917002) |
-
-### 树
-
-| 课程名                              | 来源                 | 语言 | 难度 | 课程链接 |
-| ----------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms (树模块) | MIT                  | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part I (树部分)         | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
-| CS 61B: Data Structures (树部分)    | UC Berkeley          | 英文 | 中级 | [Berkeley Course Page](https://sp21.datastructur.es/) |
-| 数据结构与算法（树部分）            | 北京大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1206307812) |
-
-### 图
-
-| 课程名                                             | 来源                 | 语言 | 难度 | 课程链接 |
-| -------------------------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms (图部分)                | MIT                  | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part II (图部分)                       | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part2) |
-| CS 161: Design and Analysis of Algorithms (图部分) | Stanford University  | 英文 | 中级 | [Stanford Course Page](https://web.stanford.edu/class/cs161/) |
-| 数据结构（图部分）                                 | 清华大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1001917002) |
-
-### 排序
-
-| 课程名                                | 来源                 | 语言 | 难度 | 课程链接 |
-| ------------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms (排序部分) | MIT                  | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part I (排序部分)         | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
-| CS 61B: Data Structures (排序部分)    | UC Berkeley          | 英文 | 中级 | [Berkeley Course Page](https://sp21.datastructur.es/) |
-| 数据结构与算法（排序部分）            | 北京大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1206307812) |
-
-### 搜索
-
-| 课程名                                               | 来源                 | 语言 | 难度 | 课程链接 |
-| ---------------------------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms (搜索部分)                | MIT                  | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part I (搜索部分)                        | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
-| CS 161: Design and Analysis of Algorithms (搜索部分) | Stanford University  | 英文 | 中级 | [Stanford Course Page](https://web.stanford.edu/class/cs161/) |
-| 数据结构与算法（搜索部分）                           | 北京大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1206307812) |
-
-### 动态规划
-
-| 课程名                                                   | 来源                 | 语言 | 难度 | 课程链接 |
-| -------------------------------------------------------- | -------------------- | ---- | ---- | -------- |
-| Introduction to Algorithms (动态规划部分)                | MIT                  | 英文 | 中级 | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part II (动态规划部分)                       | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part2) |
-| CS 161: Design and Analysis of Algorithms (动态规划部分) | Stanford University  | 英文 | 中级 | [Stanford Course Page](https://web.stanford.edu/class/cs161/) |
-| 数据结构与算法（动态规划部分）                           | 北京大学             | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1206307812) |
+#### 说明
+- **如何选择**：初学者推荐从CS 61B或北京大学课程入手，内容全面且易于理解；进阶学习者可选择MIT或Princeton课程，深入算法分析。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 5: Stacks”或“Lecture 10: Sorting”），可按需跳转。
 
 ## 计算机系统
 
+以下课程涵盖计算机系统的核心内容，包括操作系统、体系结构和内存管理，适合深入理解计算机底层原理。
+
 ### 操作系统
 
-| 课程名                                           | 来源        | 语言 | 难度 | 课程链接 |
-| ------------------------------------------------ | ----------- | ---- | ---- | -------- |
-| Computer System Engineering                      | MIT         | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/video_galleries/lecture-videos/) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) |
 | CS162: Operating Systems and Systems Programming | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs162.eecs.berkeley.edu/) |
-| Introduction to Computer Systems                 | CMU         | 英文 | 高级 | [CMU Course Page](https://csapp.cs.cmu.edu/) |
-| 操作系统                                         | 北京大学    | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1001552003) |
+| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU Course Page](http://www.cs.cmu.edu/~213/) |
+| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) |
 
 ### 体系结构
 
-| 课程名                                      | 来源                | 语言 | 难度 | 课程链接 |
-| ------------------------------------------- | ------------------- | ---- | ---- | -------- |
-| Computation Structures                      | MIT                 | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/video_galleries/lecture-videos/) |
-| CS61C: Great Ideas in Computer Architecture | UC Berkeley         | 英文 | 中级 | [Berkeley Course Page](https://cs61c.org/) |
-| Computer Architecture                       | Stanford University | 英文 | 高级 | [Stanford Course Page](https://web.stanford.edu/class/cs149/) |
-| 计算机组成                                  | 浙江大学            | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001542002) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Computation Structures | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) |
+| CS61C: Great Ideas in Computer Architecture | UC Berkeley | 英文 | 中级 | [Berkeley Course Page](https://cs61c.org/) |
+| Computer Architecture | Stanford University | 英文 | 高级 | [Stanford Course Page](https://web.stanford.edu/class/cs149/) |
+| 计算机组成 | 浙江大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-93001) |
 
 ### 内存管理
 
-| 课程名                                          | 来源                | 语言 | 难度 | 课程链接 |
-| ----------------------------------------------- | ------------------- | ---- | ---- | -------- |
-| Computer System Engineering (内存管理模块)      | MIT                 | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/video_galleries/lecture-videos/) |
-| Introduction to Computer Systems (内存管理章节) | CMU                 | 英文 | 高级 | [CMU Course Page](https://csapp.cs.cmu.edu/) |
-| CS107: Computer Organization and Systems        | Stanford University | 英文 | 中级 | [Stanford Course Page](https://web.stanford.edu/class/cs107/) |
-| 操作系统（内存管理部分）                        | 北京大学            | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1001552003) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) |
+| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU Course Page](http://www.cs.cmu.edu/~213/) |
+| CS107: Computer Organization and Systems | Stanford University | 英文 | 中级 | [Stanford Course Page](https://web.stanford.edu/class/cs107/) |
+| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) |
+
+#### 说明
+- **如何选择**：初学者推荐从北京大学操作系统或CS61C课程入手，内容较为直观；进阶学习者可选择MIT或CMU课程，深入系统设计。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Memory Management”），可按需跳转。
 
 ## 人工智能与机器学习
 
+以下课程涵盖人工智能与机器学习的核心内容，包括机器学习、深度学习和神经网络，适合探索AI领域的前沿技术。
+
 ### 机器学习
 
-| 课程名                           | 来源                   | 语言 | 难度 | 课程链接 |
-| -------------------------------- | ---------------------- | ---- | ---- | -------- |
-| Introduction to Machine Learning | MIT                    | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/video_galleries/lecture-videos/) |
-| Machine Learning                 | Andrew Ng              | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/machine-learning) |
-| Machine Learning with Python     | University of Michigan | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/python-machine-learning) |
-| 机器学习基础                     | 北京大学               | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002188003) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Introduction to Machine Learning | MIT | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/) |
+| Machine Learning | Andrew Ng | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/machine-learning) |
+| Machine Learning with Python | University of Michigan | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/python-machine-learning) |
+| 机器学习基础 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529003) |
 
 ### 深度学习
 
-| 课程名                                                       | 来源                | 语言 | 难度 | 课程链接 |
-| ------------------------------------------------------------ | ------------------- | ---- | ---- | -------- |
-| Deep Learning Specialization                                 | DeepLearning.AI     | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) |
-| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford Course Page](https://cs231n.stanford.edu/) |
-| Deep Learning                                                | MIT                 | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/video_galleries/lecture-videos/) |
-| 深度学习与应用                                               | 北京理工大学        | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001872001) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Deep Learning Specialization | DeepLearning.AI | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) |
+| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford Course Page](http://cs231n.stanford.edu/) |
+| Deep Learning | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) |
+| 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) |
 
 ### 神经网络
 
-| 课程名                                               | 来源                | 语言 | 难度 | 课程链接 |
-| ---------------------------------------------------- | ------------------- | ---- | ---- | -------- |
-| Neural Networks and Deep Learning                    | DeepLearning.AI     | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/neural-networks-deep-learning) |
-| CS231n: Convolutional Neural Networks (神经网络部分) | Stanford University | 英文 | 高级 | [Stanford Course Page](https://cs231n.stanford.edu/) |
-| Introduction to Neural Networks                      | MIT                 | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/video_galleries/lecture-videos/) |
-| 神经网络与深度学习                                   | 清华大学            | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1001917004) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Neural Networks and Deep Learning | DeepLearning.AI | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/neural-networks-deep-learning) |
+| CS231n: Convolutional Neural Networks | Stanford University | 英文 | 高级 | [Stanford Course Page](http://cs231n.stanford.edu/) |
+| Introduction to Neural Networks | MIT | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) |
+| 神经网络与深度学习 | 清华大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1003598002) |
+
+#### 说明
+- **如何选择**：初学者推荐从Andrew Ng的机器学习或DeepLearning.AI课程入手，讲解通俗；进阶学习者可选择MIT或Stanford课程，深入AI技术。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 2: Neural Networks”），可按需跳转。
 
 ## 数据库与大数据
 
+以下课程涵盖数据库与大数据的核心内容，包括SQL、关系数据库和Hadoop等技术，适合学习数据管理与处理。
+
 ### SQL/关系数据库
 
-| 课程名                                  | 来源                | 语言 | 难度 | 课程链接 |
-| --------------------------------------- | ------------------- | ---- | ---- | -------- |
-| Database Systems                        | MIT                 | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/video_galleries/lecture-videos/) |
-| Introduction to Databases               | Stanford University | 英文 | 中级 | [Stanford Online Course Page](https://online.stanford.edu/courses/soe-ycsdb-introduction-databases) |
-| CS186: Introduction to Database Systems | UC Berkeley         | 英文 | 高级 | [Berkeley Course Page](https://cs186berkeley.net/) |
-| 数据库系统概论（基础篇）                | 复旦大学            | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/FUDAN-1001639001) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Database Systems | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) |
+| Introduction to Databases | Stanford University | 英文 | 中级 | [Stanford Online Course Page](https://online.stanford.edu/courses/soe-ydatabases0001-introduction-databases) |
+| CS186: Introduction to Database Systems | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs186berkeley.net/) |
+| 数据库系统概论（基础篇） | 复旦大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/FUDAN-1001542002) |
 
 ### Hadoop/大数据
 
-| 课程名                   | 来源                     | 语言 | 难度 | 课程链接 |
-| ------------------------ | ------------------------ | ---- | ---- | -------- |
-| Big Data Analysis        | UC San Diego             | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-analysis) |
-| Introduction to Big Data | UC San Diego             | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-introduction) |
-| Big Data Technologies    | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-technologies) |
-| 大数据技术原理与应用     | 北京大学                 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1449899001) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Big Data Analysis | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-analysis) |
+| Introduction to Big Data | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/introduction-to-big-data) |
+| Big Data Technologies | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/big-data-technologies) |
+| 大数据技术原理与应用 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529004) |
+
+#### 说明
+- **如何选择**：初学者推荐从Stanford的数据库课程或北京大学大数据课程入手，内容基础；进阶学习者可选择MIT或Berkeley课程，深入数据库理论。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 4: SQL Queries”），可按需跳转。
 
 ## 网络与安全
 
+以下课程涵盖计算机网络与网络安全的核心内容，包括网络协议和加密技术，适合学习网络通信与安全原理。
+
 ### 计算机网络
 
-| 课程名                                     | 来源                     | 语言 | 难度 | 课程链接 |
-| ------------------------------------------ | ------------------------ | ---- | ---- | -------- |
-| Computer Networks                          | MIT                      | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/) |
-| CS144: Introduction to Computer Networking | Stanford University      | 英文 | 中级 | [Stanford Online Course Page](https://online.stanford.edu/courses/cs144-introduction-computer-networking) |
-| Computer Networking: A Top-Down Approach   | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/computer-networking) |
-| 计算机网络                                 | 哈尔滨工业大学           | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/HIT-154005) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Computer Networks | MIT | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/) |
+| CS144: Introduction to Computer Networking | Stanford University | 英文 | 中级 | [Stanford Online Course Page](https://cs144.stanford.edu/) |
+| Computer Networking: A Top-Down Approach | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/computer-networking) |
+| 计算机网络 | 哈尔滨工业大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/HIT-154005) |
 
 ### 网络安全
 
-| 课程名                         | 来源                   | 语言 | 难度 | 课程链接 |
-| ------------------------------ | ---------------------- | ---- | ---- | -------- |
-| Cryptography and Cryptanalysis | MIT                    | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) |
-| Cybersecurity Fundamentals     | RIT                    | 英文 | 中级 | [edX Course Page](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) |
-| Cybersecurity Specialization   | University of Maryland | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/cyber-security) |
-| 网络安全                       | 北京大学               | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002536002) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Cryptography and Cryptanalysis | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) |
+| Cybersecurity Fundamentals | RIT | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/cybersecurity-fundamentals) |
+| Cybersecurity Specialization | University of Maryland | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/cyber-security) |
+| 网络安全 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529005) |
+
+#### 说明
+- **如何选择**：初学者推荐从Coursera的计算机网络或RIT的网络安全课程入手，内容直观；进阶学习者可选择MIT或Stanford课程，深入协议与加密。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 6: TCP/IP”），可按需跳转。
 
 ## 软件工程与开发
 
+以下课程涵盖软件工程与开发的核心内容，包括Web开发和软件设计，适合学习现代软件开发技术。
+
 ### Web 开发
 
-| 课程名                                    | 来源                     | 语言 | 难度 | 课程链接 |
-| ----------------------------------------- | ------------------------ | ---- | ---- | -------- |
-| Software Engineering for Web Applications | MIT                      | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/) |
-| Web Development                           | University of Michigan   | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/web-design) |
-| Full Stack Web Development                | Johns Hopkins University | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/full-stack-web-development) |
-| Web开发技术                               | 浙江大学                 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU08091000234) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Software Engineering for Web Applications | MIT | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/) |
+| Web Development | University of Michigan | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/web-design) |
+| Full Stack Web Development | Johns Hopkins University | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/full-stack-web-development) |
+| Web开发技术 | 浙江大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001542003) |
 
 ### 软件工程
 
-| 课程名                              | 来源                     | 语言 | 难度 | 课程链接 |
-| ----------------------------------- | ------------------------ | ---- | ---- | -------- |
-| Foundations of Software Engineering | MIT                      | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/1-124j-foundations-of-software-engineering-fall-2000/) |
-| Software Engineering: Introduction  | UBC                      | 英文 | 中级 | [edX Course Page](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) |
-| Software Engineering                | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/software-engineering) |
-| 软件工程                            | 北京大学                 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1003177002) |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Foundations of Software Engineering | MIT | 英文 | 中级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) |
+| Software Engineering: Introduction | UBC | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/software-engineering-introduction) |
+| Software Engineering | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/software-engineering) |
+| 软件工程 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529006) |
+
+#### 说明
+- **如何选择**：初学者推荐从Coursera的Web开发或北京大学软件工程课程入手，实践性强；进阶学习者可选择MIT课程，深入软件设计。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Web Frameworks”），可按需跳转。
 
 ## 计算机图形学
 
-| 课程名                                   | 来源         | 语言 | 难度 | 课程链接 |
-| ---------------------------------------- | ------------ | ---- | ---- | -------- |
-| Computer Graphics                        | MIT          | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/video_galleries/lecture-videos/) |
-| CS 184: Foundations of Computer Graphics | UC Berkeley  | 英文 | 高级 | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
-| Computer Graphics and Imaging            | UC Berkeley  | 英文 | 高级 | [Berkeley Course Page](https://inst.eecs.berkeley.edu/~cs194-26/sp20/) |
-| 计算机图形学                             | 华中科技大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/HUST-1003636001) |
+以下课程涵盖计算机图形学的核心内容，包括图形渲染和图像处理，适合学习视觉计算技术。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Computer Graphics | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) |
+| CS 184: Foundations of Computer Graphics | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
+| Computer Graphics and Imaging | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
+| 计算机图形学 | 华中科技大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/HUST-1001542004) |
+
+#### 说明
+- **如何选择**：初学者推荐从华中科技大学课程入手，内容较为基础；进阶学习者可选择MIT或Berkeley课程，深入图形学理论。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 2: Rendering Pipeline”），可按需跳转。
 
 ## 量子计算
 
-| 课程名                            | 来源                   | 语言 | 难度 | 课程链接 |
-| --------------------------------- | ---------------------- | ---- | ---- | -------- |
-| Quantum Computation               | MIT                    | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/) |
-| Quantum Information Science       | MIT                    | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/) |
-| Introduction to Quantum Computing | University of Maryland | 英文 | 高级 | [edX Course Page](https://www.edx.org/learn/quantum-computing/university-of-maryland-college-park-quantum-computing-for-everyone) |
-| 量子计算与量子信息                | 北京大学               | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1449899002) |
+以下课程涵盖量子计算的核心内容，包括量子算法和量子信息，适合探索前沿计算技术。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Quantum Computation | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2018/) |
+| Quantum Information Science | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-443j-quantum-information-science-spring-2016/) |
+| Introduction to Quantum Computing | University of Maryland | 英文 | 高级 | [edX Course Page](https://www.edx.org/course/introduction-to-quantum-computing) |
+| 量子计算与量子信息 | 北京大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529007) |
+
+#### 说明
+- **如何选择**：初学者推荐从University of Maryland课程入手，内容较为入门；进阶学习者可选择MIT或北京大学课程，深入量子算法。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 4: Quantum Gates”），可按需跳转。
 
 ## 计算理论
 
-| 课程名                                  | 来源        | 语言 | 难度 | 课程链接 |
-| --------------------------------------- | ----------- | ---- | ---- | -------- |
-| Theory of Computation                   | MIT         | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/video_galleries/video-lectures/) |
-| Automata, Computability, and Complexity | MIT         | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-405j-advanced-complexity-theory-spring-2016/) |
-| Theory of Computation                   | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://www2.eecs.berkeley.edu/Courses/CS172/) |
-| 计算理论基础                            | 清华大学    | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1001917008) |
+以下课程涵盖计算理论的核心内容，包括自动机、计算复杂性和形式语言，适合深入理解计算机科学理论。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Theory of Computation | MIT | 英文 | 高级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) |
+| Automata, Computability, and Complexity | MIT | 英文 | 高级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-405j-automata-computability-and-complexity-spring-2021/) |
+| Theory of Computation | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs172.org/) |
+| 计算理论基础 | 清华大学 | 中文 | 高级 | [中国大学 MOOC](https://www.icourse163.org/course/THU-1003598003) |
+
+#### 说明
+- **如何选择**：初学者推荐从清华大学课程入手，内容系统性强；进阶学习者可选择MIT或Berkeley课程，深入计算复杂性。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 5: Turing Machines”），可按需跳转。
 
 ## 区块链
 
-| 课程名                                  | 来源                 | 语言 | 难度 | 课程链接 |
-| --------------------------------------- | -------------------- | ---- | ---- | -------- |
-| Blockchain and Money                    | MIT                  | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/) |
-| Blockchain Fundamentals                 | UC Berkeley          | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/blockchain-technology) |
+以下课程涵盖区块链的核心内容，包括加密货币和分布式账本技术，适合学习去中心化系统。
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Blockchain and Money | MIT | 英文 | 中级 | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) |
+| Blockchain Fundamentals | UC Berkeley | 英文 | 中级 | [edX Course Page](https://www.edx.org/course/blockchain-fundamentals) |
 | Bitcoin and Cryptocurrency Technologies | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/cryptocurrency) |
-| 区块链技术与应用                        | 北京大学             | 中文 | 中级 | [B站播放列表](https://www.bilibili.com/video/BV1Vt411X7JF/) |
+| 区块链技术与应用 | 北京大学 | 中文 | 中级 | [B站播放列表](https://www.bilibili.com/video/BV1Vt411X7JF) |
+
+#### 说明
+- **如何选择**：初学者推荐从Princeton或北京大学课程入手，内容通俗；进阶学习者可选择MIT或Berkeley课程，深入区块链技术。
+- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Smart Contracts”），可按需跳转。
 
 ## 贡献指南
 
