@@ -87,13 +87,13 @@
 
 ### 操作系统
 
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 | 包含内存管理 |
-|--------|------|------|------|----------|--------------|
-| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) | 是 |
-| CS162: Operating Systems and Systems Programming | UC Berkeley | 英文 | 高级 | [Berkeley](https://cs162.eecs.berkeley.edu/) | 是 |
-| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU](http://www.cs.cmu.edu/~213/) | 是 |
-| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) | 是 |
-| CS107: Computer Organization and Systems | Stanford | 英文 | 中级 | [Stanford](https://web.stanford.edu/class/cs107/) | 是（重点） |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Computer System Engineering | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) |
+| CS162: Operating Systems and Systems Programming | UC Berkeley | 英文 | 高级 | [Berkeley](https://cs162.eecs.berkeley.edu/) |
+| Introduction to Computer Systems | CMU | 英文 | 高级 | [CMU](http://www.cs.cmu.edu/~213/) |
+| 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) |
+| CS107: Computer Organization and Systems | Stanford | 英文 | 中级 | [Stanford](https://web.stanford.edu/class/cs107/) |
 
 ### 体系结构
 
@@ -123,12 +123,12 @@
 
 ### 深度学习
 
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 | 包含神经网络 |
-|--------|------|------|------|----------|--------------|
-| Deep Learning Specialization | DeepLearning.AI | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) | 是（重点） |
-| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford](http://cs231n.stanford.edu/) | 是 |
-| Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) | 是 |
-| 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) | 是 |
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Deep Learning Specialization | DeepLearning.AI | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) |
+| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | 英文 | 高级 | [Stanford](http://cs231n.stanford.edu/) |
+| Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-402-deep-learning-fall-2020/) |
+| 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) |
 
 #### 说明
 - **如何选择**：初学者推荐从DeepLearning.AI或北京理工大学课程入手，讲解通俗；进阶学习者可选择MIT或Stanford课程，深入AI技术。
