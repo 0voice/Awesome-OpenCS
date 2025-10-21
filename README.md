@@ -2,7 +2,7 @@
 
 精选国内外大学计算机公开课，按主题分类，涵盖编程、算法、人工智能等，欢迎贡献新课程、更新链接或提出优化建议，共同打造高质量的计算机科学学习资源！  
 
-[Link to English README](https://github.com/0voice/Awesome-OpenCS/blob/main/README.en.md)
+**English Version：**[Link to English README](https://github.com/0voice/Awesome-OpenCS/blob/main/README.en.md)
 
 ## 简介
 Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，汇集了来自全球顶尖大学（如MIT、Stanford、Berkeley）和知名在线教育平台（如Coursera、edX、中国大学MOOC）的免费公开课。  
