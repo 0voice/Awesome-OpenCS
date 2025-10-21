@@ -59,6 +59,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Introduction to Computational Thinking and Data Science | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) |
 | Python语言程序设计 | 北京理工大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-268001) |
 
+#### 说明
+- **如何选择**：零基础推荐北京理工大学的Python课程（中文讲解）或Harvard CS50 Python（案例丰富）；想结合计算机科学理论可选择MIT的计算思维课程。
+- **子主题导航**：课程章节涵盖“变量与数据类型”“函数与控制流”“模块与库”等基础内容，可按入门顺序逐步学习。
+
 ### Java
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -68,6 +72,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Object-Oriented Programming with Java | University of Helsinki | 英文 | 中级 | [MOOC.fi Course Page](https://java-programming.mooc.fi/) |
 | Java程序设计 | 北京大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1001552003) |
 | 零基础学Java语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-1001542001) |
+
+#### 说明
+- **如何选择**：中文学习者优先推荐浙江大学“零基础学Java”；英文学习者可选Duke University专项课；进阶面向对象编程可学习University of Helsinki课程。
+- **子主题导航**：核心章节包括“类与对象”“继承与多态”“异常处理”“集合框架”，适合从语法基础逐步过渡到面向对象设计。
 
 ### C/C++
 
@@ -79,8 +87,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 程序设计入门——C语言 | 浙江大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-199001) |
 
 #### 说明
-- **如何选择**：初学者推荐从CS50 Python或浙江大学C语言课程入手，内容通俗易懂；或者自行选择需要学习的编程语言。有一定基础的学习者可选择MIT课程，深入编程概念。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 1: Variables”），可按需跳转。
+- **如何选择**：入门首选浙江大学C语言课程（国内经典）；想结合数据结构学习C++可选择Stanford CS106B；提升编程效率选MIT的Effective C/C++课程。
+- **子主题导航**：重点章节包括“指针与内存管理”“结构体与类”“模板与泛型编程”，适合系统理解底层编程逻辑。
 
 ## 数据结构与算法
 
@@ -95,8 +103,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Data Structures and Algorithms in Python | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/data-structures-algorithms-1) |
 
 #### 说明
-- **如何选择**：初学者推荐从CS 61B或北京大学课程入手，内容全面且易于理解；进阶学习者可选择MIT或Princeton课程，深入算法分析。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 5: Stacks”或“Lecture 10: Sorting”），可按需跳转。
+- **如何选择**：中文学习者推荐北京大学课程；英文学习者入门选UC Berkeley CS 61B；深入算法分析与证明优先MIT或Princeton课程。
+- **子主题导航**：课程包含“线性结构”“树与图”“排序与查找”“动态规划与贪心”等模块，建议按“基础数据结构→基础算法→高级算法”顺序学习。
 
 ## 计算机系统
 
@@ -112,6 +120,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 操作系统 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529002) |
 | CS107: Computer Organization and Systems | Stanford | 英文 | 中级 | [Stanford](https://web.stanford.edu/class/cs107/) |
 
+#### 说明
+- **如何选择**：入门推荐北京大学操作系统或Stanford CS107；深入系统实现选UC Berkeley CS162；结合《深入理解计算机系统》教材可选CMU课程。
+- **子主题导航**：核心内容包括“进程管理”“内存分配”“文件系统”“并发控制”，建议先掌握基础概念再深入内核实现。
+
 ### 体系结构
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -122,8 +134,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 计算机组成 | 浙江大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/ZJU-93001) |
 
 #### 说明
-- **如何选择**：初学者推荐从北京大学操作系统或CS61C课程入手，内容直观；进阶学习者可选择MIT或CMU课程，深入系统设计。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Memory Management”或“Lecture 5: CPU Architecture”），可按需跳转。
+- **如何选择**：中文入门选浙江大学“计算机组成”；系统学习体系结构选UC Berkeley CS61C；研究并行计算方向优先Stanford CS149。
+- **子主题导航**：涵盖“CPU设计”“内存层次结构”“指令集架构”“并行计算模型”，适合从硬件到软件逐层理解计算机结构。
 
 ## 自动驾驶
 以下课程涵盖自动驾驶核心技术，包括感知、决策、控制及系统集成，适合学习自动驾驶算法与工程实践。
@@ -151,6 +163,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Machine Learning with Python | University of Michigan | 英文 | 中级 | [Coursera](https://www.coursera.org/learn/python-machine-learning) |
 | 机器学习基础 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529003) |
 
+#### 说明
+- **如何选择**：经典入门选Andrew Ng的Coursera课程；中文学习者推荐北京大学“机器学习基础”；结合Python实践可选University of Michigan课程。
+- **子主题导航**：核心模块包括“监督学习（线性回归、SVM）”“无监督学习（聚类、降维）”“模型评估与调优”，建议先掌握数学基础再实践。
+
 ### 深度学习
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -160,8 +176,11 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Introduction to Deep Learning | MIT | 英文 | 高级 | [MIT OCW](https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/) 
 | 深度学习与应用 | 北京理工大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BIT-1001870001) |
 
+#### 说明
+- **如何选择**：零基础入门首选DeepLearning.AI专项课；深入视觉方向选Stanford CS231n；中文学习者可选北京理工大学课程。
+- **子主题导航**：涵盖“神经网络基础”“CNN与RNN”“正则化与优化”“生成模型”，建议配合编程实践（TensorFlow/PyTorch）学习。
+
 ### 自然语言处理（NLP）
-以下课程涵盖NLP核心技术，包括文本处理、语言模型、深度学习在NLP中的应用，适合学习自然语言理解与生成。
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
@@ -176,7 +195,6 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 
 
 ### 计算机视觉（CV）
-以下课程涵盖计算机视觉核心内容，包括图像处理、特征提取、深度学习视觉模型，适合学习视觉感知与理解技术。
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
 |--------|------|------|------|----------|
@@ -202,6 +220,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | CS186: Introduction to Database Systems | UC Berkeley | 英文 | 高级 | [Berkeley Course Page](https://cs186berkeley.net/) |
 | 数据库系统概论（基础篇） | 复旦大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/FUDAN-1001542002) |
 
+#### 说明
+- **如何选择**：入门推荐Stanford的edX课程（侧重SQL实践）或复旦大学课程（中文理论）；深入数据库原理与优化选UC Berkeley CS186。
+- **子主题导航**：核心内容包括“SQL查询”“关系代数”“事务与并发”“索引与优化”，建议先掌握基础操作再深入理论。
+
 ### Hadoop/大数据
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -212,8 +234,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 大数据技术原理与应用 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1002529004) |
 
 #### 说明
-- **如何选择**：初学者推荐从Stanford的数据库课程或北京大学大数据课程入手，内容基础；进阶学习者可选择MIT或Berkeley课程，深入数据库理论。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 4: SQL Queries”），可按需跳转。
+- **如何选择**：中文学习者推荐北京大学课程；系统学习Hadoop生态选UC San Diego专项课；结合数据科学应用可选University of Washington课程。
+- **子主题导航**：涵盖“HDFS与MapReduce”“Spark编程”“大数据存储与分析”，建议有Java/Python基础后学习。
 
 ## 网络与安全
 
@@ -228,6 +250,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Computer Networking: A Top-Down Approach | University of Washington | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/computer-networking) |
 | 计算机网络 | 哈尔滨工业大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/HIT-154005) |
 
+#### 说明
+- **如何选择**：入门推荐哈尔滨工业大学课程或University of Washington的“自顶向下”课程；深入协议实现选Stanford CS144。
+- **子主题导航**：核心章节包括“TCP/IP协议栈”“路由与交换”“拥塞控制”“应用层协议”，建议配合实验理解协议工作原理。
+
 ### 网络安全
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -237,8 +263,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 网络安全 | 北京航空航天大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/BUAA-1466021165?from=searchPage&outVendor=zw_mooc_pcssjg_) |
 
 #### 说明
-- **如何选择**：初学者推荐从北京航空航天大学网络安全课程或RIT的网络安全课程入手，内容直观；进阶学习者可选择MIT或Stanford课程，深入协议与加密。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 6: TCP/IP”），可按需跳转。
+- **如何选择**：中文入门选北京航空航天大学课程；英文基础学习选RIT的edX课程；深入密码学理论与分析选MIT课程。
+- **子主题导航**：涵盖“对称加密与非对称加密”“数字签名”“网络攻击与防御”“安全协议”，建议先掌握密码学基础。
 
 ## 软件工程与开发
 
@@ -253,6 +279,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Full Stack Web Development | Johns Hopkins University | 英文 | 中级 | [Coursera Specialization](https://www.coursera.org/specializations/html-css-javascript-for-web-developers) |
 | Web前端开发 | 北京林业大学 | 中文 | 初级 | [中国大学 MOOC](https://www.icourse163.org/course/BFU-1003382003?from=searchPage&outVendor=zw_mooc_pcssjg_) |
 
+#### 说明
+- **如何选择**：前端入门选北京林业大学课程；全栈开发推荐Johns Hopkins专项课；结合软件工程思想选MIT课程。
+- **子主题导航**：包含“HTML/CSS基础”“JavaScript编程”“后端框架”“前后端交互”，建议按“前端→后端→全栈”顺序学习。
+
 ### 软件工程
 
 | 课程名 | 来源 | 语言 | 难度 | 课程链接 |
@@ -262,8 +292,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | 软件工程 | 北京大学 | 中文 | 中级 | [中国大学 MOOC](https://www.icourse163.org/course/PKU-1003177002?from=searchPage&outVendor=zw_mooc_pcssjg_#/info) |
 
 #### 说明
-- **如何选择**：初学者推荐从北京林业大学的Web开发或北京大学软件工程课程入手，实践性强；进阶学习者可选择MIT课程，深入软件设计。
-- **子主题导航**：每门课程的官方网站或目录通常包含具体章节（如“Lecture 3: Web Frameworks”），可按需跳转。
+- **如何选择**：中文学习者推荐北京大学课程；系统学习工程方法选UBC的edX课程；深入软件构造原理选MIT课程。
+- **子主题导航**：核心内容包括“需求分析”“设计模式”“测试与质量保证”“敏捷开发”，适合结合实际项目实践。
 
 ## 计算机图形学
 
