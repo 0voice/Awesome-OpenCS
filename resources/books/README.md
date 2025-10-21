@@ -7,10 +7,10 @@
 - **结构**：每个分类下有子文件夹，存放具体书籍文件和简要描述。欢迎贡献新书！
 
 ## 书籍分类
-- **[编程基础 (Programming Fundamentals)](programming-fundamentals/)**  
+- **[编程基础 (Programming Fundamentals)](https://github.com/0voice/Awesome-OpenCS/tree/main/resources/books/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%20(Programming%20Fundamentals))**  
   编程入门书籍，结合根目录课程如 Python、Java、C/C++ 学习。
   
-- **[数据结构与算法 (Data Structures and Algorithms)](data-structures-and-algorithms/)**  
+- **[数据结构与算法 (Data Structures and Algorithms)](https://github.com/0voice/Awesome-OpenCS/tree/main/resources/books/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%20(Data%20Structures%20and%20Algorithms))**  
   算法经典教材，如《算法导论》，配 MIT 6.006 等课程。
   
 - **[计算机系统 (Computer Systems)](computer-systems/)**  
