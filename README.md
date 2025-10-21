@@ -289,4 +289,3 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 - **课程来源**：国内（中国大学 MOOC、B站）、国际（MIT OCW、Coursera、edX）。
 - **课件存放**：讲义、作业、代码等存放于 [resources/](resources/)，按主题分类。需从资源页下载并上传至对应子文件夹。
 - **许可证**：本项目采用 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)，内容自由分享。
-```
