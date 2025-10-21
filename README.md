@@ -356,10 +356,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 
 ## 贡献指南
 
-欢迎为 **Awesome-OpenCS** 添加课程或课件！请按以下步骤：
+欢迎为 **Awesome-OpenCS** 添加内容！请按以下步骤：
 
 1. Fork 本仓库。
-2. 在 `README.md` 中添加课程（保持表格格式）或在 `resources/` 对应子文件夹中添加课件（PDF、代码等）。
+2. 在 `README.md` 中添加课程（保持表格格式）或在 `resources/` 对应子文件夹中添加内容。
 3. 提交 Pull Request，说明添加内容。
 
 请确保课程免费、链接有效，课件文件名清晰（如 `MIT_6-0001_Lecture1.pdf`）。
@@ -367,5 +367,5 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 ## 资源说明
 
 - **课程来源**：国内（中国大学 MOOC、B站）、国际（MIT OCW、Coursera、edX）。
-- **课件存放**：讲义、作业、代码等存放于 [resources/](resources/)，按主题分类。需从资源页下载并上传至对应子文件夹。
+- **链接说明**：所有课程链接均经过验证，可直接访问课程官方页面获取学习内容（部分平台可能需要注册账号）。
 - **许可证**：本项目采用 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)，内容自由分享。
