@@ -88,8 +88,18 @@
 
 
 ## Harvard University (哈佛大学)
-
-
+- ### [CS50’s Computer Science for Lawyers (CS50L)](https://www.youtube.com/playlist?list=PLhQjrBD2T380CIOjHCjIAugO3ryncp6IW)
+- ### [CS50’s Computer Science for Business Professionals (CS50B)](https://www.youtube.com/playlist?list=PL9UTKNl2E2_7vnUwfm7RvBVY6tk7ml-US)
+- ### [CS50: Introduction to Computer Science (CS50x 2025)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
+- ### [CS50’s Introduction to Programming with Python (CS50P)](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+- ### [CS50’s Introduction to Artificial Intelligence with Python (CS50AI)](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
+- ### [CS50’s Introduction to Cybersecurity (CS50CSec)](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
+- ### [CS50’s Introduction to Databases with SQL (CS50SQL)](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+- ### [CS50’s Introduction to Programming with R (CS50R)](https://www.youtube.com/playlist?list=PLhQjrBD2T382yfNp_-xzX244d-O9W6YmD)
+- ### [CS50’s Web Programming with Python and JavaScript (CS50W)](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+- ### [CS181: Machine Learning (2021)](https://www.youtube.com/playlist?list=PLJb77FD8FLof9W9CGUOV5obIxUEcHRKEX)
+- ### [CS224: Advanced Algorithms (Harvard University)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- ### [Algorithms for Big Data (COMPSCI 229r)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf)
 
 ## UC Berkeley (加州大学伯克利分校)
 
