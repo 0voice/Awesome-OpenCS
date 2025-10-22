@@ -140,9 +140,17 @@
 
 
 ## Princeton University (普林斯顿大学)
-
-
-
+- ### [COS 126: Computer Science: An Interdisciplinary Approach (Spring 2017)](https://www.youtube.com/playlist?list=PLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY)
+- ### [COS 217: Introduction to Programming Systems (Fall 2021 Lectures)](https://www.youtube.com/playlist?list=PLwXw5yrGdQS7zpF7M7yKQPJu7s7fFpnF3)
+- ### [COS 217: Introduction to Programming Systems (Various Lectures)](https://www.youtube.com/playlist?list=PL6XXAPf45oazxsmom3ZQ7HxI-mdFAfwiN)
+- ### [COS 226: Algorithms and Data Structures (Fall 2016)](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Hz-wATEaLxBGsZcdcDzMBw)
+- ### [COS 226: Algorithms and Data Structures (Lecture 1: Algorithms and Data Structures Overview)](https://www.youtube.com/watch?v=hZi5aEG9z8U)
+- ### [Princeton CS Colloquium Series (Various Years, 2021-2025)](https://www.youtube.com/playlist?list=PLmXGwbP6TH9btA9mQjkNslCq7Xiv5o1zC)
+- ### [CS50 Lecture by Brian Kernighan (Princeton Professor on C Programming)](https://www.youtube.com/watch?v=kw9KwjJCJH8)
+- ### [Barnard Distinguished Lecture: Aarti Gupta on Formal Methods (Princeton)](https://www.youtube.com/watch?v=FW1jU6xvgG4)
+- ### [Allen School Lecture: Jennifer Rexford on Networking (Princeton)](https://www.youtube.com/watch?v=FfYN94K5iCo)
+- ### [WSDL 2024 Lecture: Sanjeev Arora on AI and Language](https://www.youtube.com/watch?v=DGq6_W837gQ)
+- ### [Leslie Valiant: Computer Science as a Natural Science (Harvard at Princeton)](https://www.youtube.com/watch?v=VED_IiPwBPs)
 ## 🤝 贡献指南
 
 欢迎为 **Awesome-OpenCS** 添加内容！🙌 请遵循以下步骤：
