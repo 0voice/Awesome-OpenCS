@@ -66,9 +66,28 @@
 
 
 ## Stanford University (斯坦福大学)
-
-
-
+- ### [CS231n: Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+- ### [CS336: Language Models from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- ### [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- ### [CS106A: Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)
+- ### [CS106B: Programming Abstractions](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
+- ### [CS107: Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
+- ### [CS105: Introduction to Computers](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
+- ### [CS221: Artificial Intelligence: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+- ### [CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- ### [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- ### [CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- ### [CS336: Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- ### [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+- ### [CS25: Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+- ### [CS109: Probability for Computer Scientists](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+- ### [CS144: Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)
+- ### [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- ### [CS149: Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+- ### [CS161: Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLyhSTP3Z5_mZ8krUa2JsvL7V755ogHgkK)
+- ### [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- ### [CS247: Human-Computer Interaction](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+- ### [CS329H: Machine Learning from Human Preferences](https://www.youtube.com/playlist?list=PLoROMvodv4rNm525zyAObP4al43WAifZz)
 ## Harvard University (哈佛大学)
 
 
@@ -98,6 +117,6 @@
 
 ## 🔗 资源说明
 
-- **课程来源**：国际平台（MIT OCW、Coursera、edX、Stanford Online 等）。
+- **课程来源**：国际平台（MIT OCW、Coursera、edX、Stanford Online、YouTube等）。
 - **链接说明**：所有链接直接指向视频播放页面，部分平台可能需注册。
 - **许可证**：本项目采用 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)，内容自由分享。
