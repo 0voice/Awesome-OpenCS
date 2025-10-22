@@ -1,186 +1,167 @@
 # <h1 align="center">Global University Computer Science Open Courses</h1>
 
-🔥 A curated collection of computer science open courses from top global universities, organized by topic, covering programming fundamentals, data structures and algorithms, artificial intelligence, and more. Contributions of new courses, updated links, or optimization suggestions are welcome to build a high-quality computer science learning resource together!
+🔥 Curated open course video resources from top global universities in computer science and related disciplines, categorized by school, covering topics such as programming basics, artificial intelligence, data structures, operating systems, etc. Welcome to contribute new courses, update links, or suggest improvements to build high-quality open-source learning resources together! 🌟
 
-**中文版链接:** [Link to Chinese README](https://github.com/0voice/Awesome-OpenCS/blob/main/README.md)
-
-## 📝 Introduction
-
-Awesome-OpenCS is a carefully curated repository of open-source computer science course resources, aggregating free courses from leading global universities (e.g., MIT, Stanford, Berkeley) and renowned online platforms (e.g., Coursera, edX). Whether you're starting with programming, diving deep into data structures and algorithms, or exploring cutting-edge fields like AI, computer systems, or blockchain, you'll find suitable courses here:
-
-- Handpicked classic courses from MIT, Stanford, Berkeley, and more
-- Clearly organized by topic, progressing from beginner to advanced, accessible to newcomers
-- All course links are verified, paired with recommended textbooks to streamline your self-learning journey
-
-No fees required—learn computer science core knowledge anytime, anywhere, from theory to practice, guided by world-class professors! Contributions are welcome to build the most comprehensive open-source learning community. 🌟
+**中文版:** [Link to Chinese README](https://github.com/0voice/Awesome-OpenCS/blob/main/README.md)
 
 ## 📌 Table of Contents
 
-- [Programming Fundamentals](#programming-fundamentals)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Computer Systems](#computer-systems)
-- [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
-- [Databases and Big Data](#databases-and-big-data)
-- [Networking and Security](#networking-and-security)
-- [Software Engineering and Development](#software-engineering-and-development)
-- [Computer Graphics](#computer-graphics)
-- [Quantum Computing](#quantum-computing)
-- [Theory of Computation](#theory-of-computation)
-- [Blockchain](#blockchain)
+- [MIT (Massachusetts Institute of Technology)](#mit-massachusetts-institute-of-technology)
+- [Stanford University](#stanford-university)
+- [Harvard University](#harvard-university)
+- [UC Berkeley (University of California, Berkeley)](#uc-berkeley-university-of-california-berkeley)
+- [CMU (Carnegie Mellon University)](#cmu-carnegie-mellon-university)
+- [Princeton University](#princeton-university)
 - [Contribution Guidelines](#-contribution-guidelines)
 - [Resource Notes](#-resource-notes)
 
-## Programming Fundamentals
+## MIT (Massachusetts Institute of Technology)
+- ### [Advanced Data Structures](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/video_galleries/lecture-videos/)
+- ### [Advanced Topics in Cryptography](https://ocw.mit.edu/courses/6-5630-advanced-topics-in-cryptography-fall-2023/pages/lecture-1-interactive-proofs-and-the-sum-check-protocol/)
+- ### [Advances in Computer Vision](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=411d3828-5e30-41ab-b70b-b2780084a1ed&start=270)
+- ### [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/video_galleries/lecture-videos/)
+- ### [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/)
+- ### [Brains, Minds, and Machines (Summer Course)](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
+- ### [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
+- ### [Cognitive Robotics](https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/video_galleries/videos-for-advanced-lectures/)
+- ### [Computer Language Engineering](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/video_galleries/lecture-notes/)
+- ### [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
+- ### [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c1/c1s2/)
+- ### [Creating Video Games](https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/video_galleries/lecture-videos/)
+- ### [Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/)
+- ### [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/pages/module-one-introduction/)
+- ### [Fintech: Shaping the Financial World](https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/pages/intro-and-key-trends/)
+- ### [Future of AI (MIT Initiative)](https://www.futureofai.mit.edu/)
+- ### [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/video_galleries/lecture-videos/)
+- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
+- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/)
+- ### [Introduction to Computational Neuroscience with Neuroblox](https://neuroblox.github.io/course/index.html)
+- ### [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall22/images_abstractions/images/)
+- ### [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/)
+- ### [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
+- ### [Introduction to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-1-introduction/)
+- ### [Introduction to Deep Learning](https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
+- ### [Introduction to EECS II: Digital Communication Systems](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/video_galleries/lecture-videos/)
+- ### [Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/resources/lecture-1-object-oriented-programming/)
+- ### [Introduction to R and GIS](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/video_galleries/introduction-to-r/)
+- ### [Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](https://www.youtube.com/watch?v=lEZPfmGCEk0&t=1s)
+- ### [Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect](https://ocw.mit.edu/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/resources/guided-tutorial-introduction-to-unity/)
+- ### [Machine Learning for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
+- ### [Machine Learning for Inverse Graphics](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5184f97-b27e-426b-9cb9-b076011efd6a)
+- ### [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/video_galleries/lecture-videos/)
+- ### [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/)
+- ### [Mathematics of Big Data and Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/video_galleries/class-videos/)
+- ### [Multicore Programming Primer](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/video_galleries/lecture-notes-and-video/)
+- ### [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/)
+- ### [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/pages/puzzle-1-you-will-all-conform/)
+- ### [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+- ### [The Battlecode Programming Competition](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/)
+- ### [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/video_galleries/video-lectures/)
+- ### [Underactuated Robotics](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/video_galleries/video-lectures/)
 
-The following courses cover core programming concepts, including beginner-friendly content for Python, Java, C/C++, and more.
+## Stanford University
+- ### [CS105: Introduction to Computers](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
+- ### [CS106A: Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)
+- ### [CS106B: Programming Abstractions](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
+- ### [CS107: Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
+- ### [CS109: Probability for Computer Scientists](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
+- ### [CS124: From Languages to Information](https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
+- ### [CS144: Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)
+- ### [CS149: Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
+- ### [CS161: Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLyhSTP3Z5_mZ8krUa2JsvL7V755ogHgkK)
+- ### [CS178: Digital Photography](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i)
+- ### [CS193p: Developing iOS Applications with SwiftUI](https://www.youtube.com/playlist?list=PLKH-mvqAYqBIoo0clNB1JlTzj1H2P_Dlx)
+- ### [CS221: Artificial Intelligence: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+- ### [CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- ### [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- ### [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- ### [CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- ### [CS231n: Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+- ### [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- ### [CS247: Human-Computer Interaction](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+- ### [CS261: A Second Course in Algorithms](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc)
+- ### [CS329H: Machine Learning from Human Preferences](https://www.youtube.com/playlist?list=PLoROMvodv4rNm525zyAObP4al43WAifZz)
+- ### [CS336: Language Modeling from Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- ### [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- ### [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
 
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Introduction to Computer Science and Programming in Python | MIT | English | Beginner | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
-| CS50's Introduction to Programming with Python | Harvard University | English | Beginner | [CS50 Python Course](https://cs50.harvard.edu/python/2022/) |
-| Introduction to Computational Thinking and Data Science | MIT | English | Beginner | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) |
-| Introduction to Programming in Java | MIT | English | Beginner | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/) |
-| Java Programming and Software Engineering Fundamentals | Duke University | English | Beginner | [Coursera Course Page](https://www.coursera.org/specializations/java-programming) |
-| Object-Oriented Programming with Java | University of Helsinki | English | Intermediate | [MOOC.fi Course Page](https://java-programming.mooc.fi/) |
-| Introduction to C and C++ | MIT | English | Beginner | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) |
-| CS 106B: Programming Abstractions | Stanford University | English | Beginner | [Stanford Course Page](https://web.stanford.edu/class/cs106b/) |
-| Effective Programming in C and C++ | MIT | English | Beginner | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) |
+## Harvard University
+- ### [CS50’s Computer Science for Lawyers (CS50L)](https://www.youtube.com/playlist?list=PLhQjrBD2T380CIOjHCjIAugO3ryncp6IW)
+- ### [CS50’s Computer Science for Business Professionals (CS50B)](https://www.youtube.com/playlist?list=PL9UTKNl2E2_7vnUwfm7RvBVY6tk7ml-US)
+- ### [CS50: Introduction to Computer Science (CS50x 2025)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
+- ### [CS50’s Introduction to Programming with Python (CS50P)](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+- ### [CS50’s Introduction to Artificial Intelligence with Python (CS50AI)](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
+- ### [CS50’s Introduction to Cybersecurity (CS50CSec)](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
+- ### [CS50’s Introduction to Databases with SQL (CS50SQL)](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
+- ### [CS50’s Introduction to Programming with R (CS50R)](https://www.youtube.com/playlist?list=PLhQjrBD2T382yfNp_-xzX244d-O9W6YmD)
+- ### [CS50’s Web Programming with Python and JavaScript (CS50W)](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+- ### [CS181: Machine Learning (2021)](https://www.youtube.com/playlist?list=PLJb77FD8FLof9W9CGUOV5obIxUEcHRKEX)
+- ### [CS224: Advanced Algorithms (Harvard University)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- ### [Algorithms for Big Data (COMPSCI 229r)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf)
 
-## Data Structures and Algorithms
+## UC Berkeley (University of California, Berkeley)
+- ### [CS10: The Beauty and Joy of Computing (Fall 2010)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9)
+- ### [CS61A: The Structure and Interpretation of Computer Programs (Fall 2020)](https://www.youtube.com/playlist?list=PL0my2vWlgboySadi9ApfZCNIDV2O5TSDh)
+- ### [CS61B: Data Structures (Spring 2015, full classic series)](https://www.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8)
+- ### [CS61B: Data Structures (Spring 2025 Live Recordings)](https://www.youtube.com/playlist?list=PLnp31xXvnfRoUqOjlnhHzmYravacOPD8p)
+- ### [CS61C: Great Ideas in Computer Architecture (Fall 2020)](https://www.youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf)
+- ### [CS61C: Great Ideas in Computer Architecture (Spring 2015)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+- ### [CS70: Discrete Mathematics and Probability Theory (Fall 2017)](https://www.youtube.com/playlist?list=PLu0nzW8Es1x0Ivn-757Za_ps090FJxOPd)
+- ### [CS162: Operating Systems and Systems Programming (Fall 2021)](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
+- ### [CS182: Deep Learning (Spring 2021)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- ### [CS186: Introduction to Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
+- ### [CS188: Introduction to Artificial Intelligence (Spring 2024)](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
+- ### [CS189: Introduction to Machine Learning (Fall 2023)](https://www.youtube.com/playlist?list=PLOOm2AoWIPEyZazQVnIcaK2KnezpGZV-X)
+- ### [CS285: Deep Reinforcement Learning (Fall 2020)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+- ### [CS285: Deep Reinforcement Learning (Fall 2021)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+- ### [CS285: Deep Reinforcement Learning (Fall 2023)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
+- ### [CS294-158: Deep Unsupervised Learning (Spring 2024)](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)
 
-The following courses cover core concepts of data structures and algorithms, including stacks, queues, linked lists, trees, graphs, sorting, searching, and dynamic programming.
+## CMU (Carnegie Mellon University)
+- ### [15-445: Introduction to Database Systems (Fall 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
+- ### [15-445: Introduction to Database Systems (Fall 2024)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq)
+- ### [15-445: Introduction to Database Systems (Fall 2025)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5)
+- ### [15-213: Introduction to Computer Systems (Fall 2017)](https://www.youtube.com/playlist?list=PL2dWYoM7ypKy8yuOV01RGMRDEaw5sNyyz)
+- ### [15-462: Computer Graphics (Spring 2023)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
+- ### [11-785: Introduction to Deep Learning (Spring 2021 Lectures)](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
+- ### [15-740: Computer Architecture (Spring 2015, Onur Mutlu)](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+- ### [15-740: Computer Architecture (Fall 2015)](https://www.youtube.com/playlist?list=PL5PHm2jkkXmgVhh8CHAu9N76TShJqfYDt)
+- ### [15-751: CS Theory Toolkit (Spring 2020)](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
+- ### [15-455: Undergraduate Complexity Theory (Spring 2017)](https://www.youtube.com/watch?v=RxhpiYKFQd8)
+- ### [11-711: Advanced Natural Language Processing (Fall 2024)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp)
+- ### [11-711: Advanced Natural Language Processing (Spring 2024)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)
+- ### [15-251: Great Ideas in Theoretical Computer Science (Spring 2016)](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv)
+- ### [15-721: Advanced Database Systems (Spring 2024)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ)
+- ### [15-751: CS Theory Toolkit (Spring 2020)](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
+- ### [16-745: Optimal Control and Reinforcement Learning (Spring 2024)](https://www.youtube.com/playlist?list=PLZnJoM76RM6Jv4f7E7RnzW4rijTUTPI4u)
+- ### [16-745: Optimal Control Recitations (Spring 2024)](https://www.youtube.com/playlist?list=PLR-CEg9er7kFfMQU9c3P8J77H3yKb4pTK)
 
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Introduction to Algorithms | MIT | English | Intermediate | [MIT OCW - Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Algorithms, Part I & II | Princeton University | English | Intermediate | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
-| CS 61B: Data Structures | UC Berkeley | English | Intermediate | [Berkeley Course Page](https://sp24.datastructur.es/) |
-| Data Structures and Algorithms in Python | UC San Diego | English | Intermediate | [Coursera Course Page](https://www.coursera.org/learn/data-structures-algorithms-1) |
-
-## Computer Systems
-
-The following courses cover core concepts of computer systems, including operating systems, memory management, and architecture, ideal for understanding low-level computer principles.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Computer System Engineering | MIT | English | Advanced | [MIT OCW](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) |
-| CS162: Operating Systems and Systems Programming | UC Berkeley | English | Advanced | [Berkeley](https://cs162.eecs.berkeley.edu/) |
-| Introduction to Computer Systems | CMU | English | Advanced | [CMU](http://www.cs.cmu.edu/~213/) |
-| CS107: Computer Organization and Systems | Stanford | English | Intermediate | [Stanford](https://web.stanford.edu/class/cs107/) |
-| Computation Structures | MIT | English | Advanced | [MIT OCW](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) |
-| CS61C: Great Ideas in Computer Architecture | UC Berkeley | English | Intermediate | [Berkeley](https://cs61c.org/) |
-| Parallel Computing | Stanford | English | Advanced | [Stanford CS149 Course Page](https://gfxcourses.stanford.edu/cs149/) |
-
-## Artificial Intelligence and Machine Learning
-
-The following courses cover core concepts of artificial intelligence and machine learning, including machine learning, deep learning, autonomous driving, and neural networks, ideal for exploring cutting-edge AI technologies.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Introduction to Machine Learning | MIT | English | Intermediate | [MIT OCW](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/) |
-| Machine Learning | Andrew Ng | English | Intermediate | [Coursera](https://www.coursera.org/learn/machine-learning) |
-| Machine Learning with Python | University of Michigan | English | Intermediate | [Coursera](https://www.coursera.org/learn/python-machine-learning) |
-| Deep Learning Specialization | DeepLearning.AI | English | Intermediate | [Coursera Specialization](https://www.coursera.org/specializations/deep-learning) |
-| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | English | Advanced | [Stanford](http://cs231n.stanford.edu/) |
-| Introduction to Deep Learning | MIT | English | Advanced | [MIT OCW](https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/) |
-| CS224N: Natural Language Processing with Deep Learning | Stanford University | English | Advanced | [Stanford CS224N Course Page](https://web.stanford.edu/class/cs224n/) |
-| Natural Language Processing Specialization | DeepLearning.AI (Coursera) | English | Intermediate | [Coursera Specialization](https://www.coursera.org/specializations/natural-language-processing) |
-| NLP with Transformers | Hugging Face & Stanford University | English | Intermediate | [Free Interactive Course](https://huggingface.co/learn/nlp-course/chapter1/1) |
-| CS124: From Languages to Information | Stanford University | English | Intermediate | [Stanford CS124 Course Page](https://web.stanford.edu/class/cs124/) |
-| CS231n: Convolutional Neural Networks for Visual Recognition | Stanford University | English | Advanced | [Stanford CS231n Course Page](http://cs231n.stanford.edu/) |
-| ECE 408/CS 447: Computer Vision | University of Illinois Urbana-Champaign | English | Intermediate | [UIUC Course Page](https://courses.engr.illinois.edu/ece408/sp2024/) |
-| Computer Vision Specialization | DeepLearning.AI (Coursera) | English | Intermediate | [Coursera Specialization](https://www.coursera.org/specializations/computer-vision) |
-| Self-Driving Cars Specialization | University of Toronto (Coursera) | English | Intermediate | [Coursera Specialization](https://www.coursera.org/specializations/self-driving-cars) |
-| CS330: Deep Multi-Task and Meta Learning for Autonomous Driving | Stanford University | English | Advanced | [Stanford CS330 Course Page](https://cs330.stanford.edu/) |
-| Autonomous Vehicles: Planning for Urban Driving | University of Pennsylvania (edX) | English | Intermediate | [edX Course Page](https://www.edx.org/course/autonomous-vehicles-planning-for-urban-driving) |
-
-## Databases and Big Data
-
-The following courses cover core concepts of databases and big data, including SQL, relational databases, and Hadoop, ideal for learning data management and processing.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Database Systems | MIT | English | Advanced | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) |
-| Introduction to Databases | Stanford University | English | Intermediate | [edX - Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) |
-| CS186: Introduction to Database Systems | UC Berkeley | English | Advanced | [Berkeley Course Page](https://cs186berkeley.net/) |
-| Big Data Analysis | UC San Diego | English | Intermediate | [Coursera - Big Data Specialization](https://www.coursera.org/specializations/big-data) |
-| Introduction to Big Data | UC San Diego | English | Intermediate | [Coursera - Introduction to Big Data](https://www.coursera.org/learn/big-data-introduction) |
-| Big Data Technologies | University of Washington | English | Intermediate | [Coursera - Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science) |
-
-## Networking and Security
-
-The following courses cover core concepts of computer networking and security, including network protocols and cryptography, ideal for learning communication and security principles.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Computer Networks | MIT | English | Intermediate | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-829-computer-networks-fall-2002/) |
-| CS144: Introduction to Computer Networking | Stanford University | English | Intermediate | [Stanford Online Course Page](https://cs144.stanford.edu/) |
-| Computer Networking: A Top-Down Approach | University of Washington | English | Intermediate | [Coursera Course Page](https://www.coursera.org/learn/computer-networking) |
-| Cryptography and Cryptanalysis | MIT | English | Advanced | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) |
-| Cybersecurity Fundamentals | RIT | English | Intermediate | [edX Course Page](https://www.edx.org/course/cybersecurity-fundamentals) |
-
-## Software Engineering and Development
-
-The following courses cover core concepts of software engineering and development, including web development and software design, ideal for learning modern software development techniques.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Software Engineering for Web Applications | MIT | English | Intermediate | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-171-software-engineering-for-web-applications-fall-2003/) |
-| Web Development | University of Michigan | English | Intermediate | [Coursera Specialization](https://www.coursera.org/specializations/web-design) |
-| Full Stack Web Development | Johns Hopkins University | English | Intermediate | [Coursera Specialization](https://www.coursera.org/specializations/html-css-javascript-for-web-developers) |
-| Foundations of Software Engineering | MIT | English | Intermediate | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) |
-| Software Engineering: Introduction | UBC | English | Intermediate | [edX Course Page](https://www.edx.org/course/software-engineering-introduction) |
-
-## Computer Graphics
-
-The following courses cover core concepts of computer graphics, including rendering and image processing, ideal for learning visual computing techniques.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Computer Graphics | MIT | English | Advanced | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) |
-| CS 184: Foundations of Computer Graphics | UC Berkeley | English | Advanced | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
-| Computer Graphics and Imaging | UC Berkeley | English | Advanced | [Berkeley Course Page](https://cs184.eecs.berkeley.edu/) |
-
-## Quantum Computing
-
-The following courses cover core concepts of quantum computing, including quantum algorithms and quantum information, ideal for exploring cutting-edge computing technologies.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Quantum Computation | MIT | English | Advanced | [MIT OCW Course Page](https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/) |
-| Quantum Information Science | MIT | English | Advanced | [MIT OCW Course Page](https://ocw.mit.edu/courses/mas-865j-quantum-information-science-spring-2006/) |
-
-## Theory of Computation
-
-The following courses cover core concepts of computational theory, including automata, computability, and complexity, ideal for understanding theoretical computer science.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Theory of Computation | MIT | English | Advanced | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) |
-| Automata, Computability, and Complexity | MIT | English | Advanced | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/) |
-| Theory of Computation | UC Berkeley | English | Advanced | [Berkeley Course Page](https://www2.eecs.berkeley.edu/Courses/CS170/) |
-
-## Blockchain
-
-The following courses cover core concepts of blockchain, including cryptocurrencies and distributed ledger technologies, ideal for learning decentralized systems.
-
-| Course Name | Source | Language | Difficulty | Course Link |
-|-------------|--------|----------|------------|-------------|
-| Blockchain and Money | MIT | English | Intermediate | [MIT OCW Video Gallery](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) |
-| Blockchain Fundamentals | UC Berkeley | English | Intermediate | [edX Course Page](https://www.edx.org/certificates/professional-certificate/uc-berkeleyx-blockchain-fundamentals) |
-| Bitcoin and Cryptocurrency Technologies | Princeton University | English | Intermediate | [Coursera Course Page](https://www.coursera.org/learn/cryptocurrency) |
+## Princeton University
+- ### [COS 126: Computer Science: An Interdisciplinary Approach (Spring 2017)](https://www.youtube.com/playlist?list=PLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY)
+- ### [COS 217: Introduction to Programming Systems (Fall 2021 Lectures)](https://www.youtube.com/playlist?list=PLwXw5yrGdQS7zpF7M7yKQPJu7s7fFpnF3)
+- ### [COS 217: Introduction to Programming Systems (Various Lectures)](https://www.youtube.com/playlist?list=PL6XXAPf45oazxsmom3ZQ7HxI-mdFAfwiN)
+- ### [COS 226: Algorithms and Data Structures (Fall 2016)](https://www.youtube.com/playlist?list=PLaLOVNqqD-2Hz-wATEaLxBGsZcdcDzMBw)
+- ### [COS 226: Algorithms and Data Structures (Lecture 1: Algorithms and Data Structures Overview)](https://www.youtube.com/watch?v=hZi5aEG9z8U)
+- ### [Princeton CS Colloquium Series (Various Years, 2021-2025)](https://www.youtube.com/playlist?list=PLmXGwbP6TH9btA9mQjkNslCq7Xiv5o1zC)
+- ### [CS50 Lecture by Brian Kernighan (Princeton Professor on C Programming)](https://www.youtube.com/watch?v=kw9KwjJCJH8)
+- ### [Barnard Distinguished Lecture: Aarti Gupta on Formal Methods (Princeton)](https://www.youtube.com/watch?v=FW1jU6xvgG4)
+- ### [Allen School Lecture: Jennifer Rexford on Networking (Princeton)](https://www.youtube.com/watch?v=FfYN94K5iCo)
+- ### [WSDL 2024 Lecture: Sanjeev Arora on AI and Language](https://www.youtube.com/watch?v=DGq6_W837gQ)
+- ### [Leslie Valiant: Computer Science as a Natural Science (Harvard at Princeton)](https://www.youtube.com/watch?v=VED_IiPwBPs)
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions to **Awesome-OpenCS**! Please follow these steps:
-
-1. Fork this repository.
-2. Add courses to `README.md` (maintain the table format) or contribute to relevant subfolders.
-3. Submit a Pull Request with a description of your changes.
-4. Ensure courses are free and links are valid.
+Welcome to contribute to **Awesome-OpenCS**! 🙌 Please follow these steps:
+1. **Fork the Repository**: Fork this repository to your account.
+2. **Edit README**: Add new courses under the corresponding school, using the following format:
+   ```markdown
+   [Course Name](Video Page Link)
+   ```
+3. **Submit Pull Request (PR)**: Describe your changes and note the course source.
+4. **Notes**: Ensure courses are free and links point directly to video pages.
 
 ## 🔗 Resource Notes
 
-- **Course Sources**: International platforms (MIT OCW, Coursera, edX).
-- **Link Notes**: All course links are verified and direct to official course pages (some platforms may require registration).
-- **License**: This project is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), free to share.
+- **Course Sources**: MIT OCW, Stanford Online, YouTube, etc.
+- **Link Notes**: All links point directly to video playback pages; some platforms may require registration.
+- **License**: This project uses [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), content is free to share.
