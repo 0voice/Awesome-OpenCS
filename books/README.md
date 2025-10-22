@@ -9,10 +9,10 @@
 - [编程基础 (Programming Fundamentals)](#-编程基础-programming-fundamentals)
 - [数据结构与算法 (Data Structures and Algorithms)](#-数据结构与算法-data-structures-and-algorithms)
 - [人工智能与机器学习 (Artificial Intelligence and Machine Learning)](#-人工智能与机器学习-artificial-intelligence-and-machine-learning)
-- [计算机系统 (Computer Systems)](#-计算机系统-computer-systems)
+- [计算机系统 (Computer Systems)](#%EF%B8%8F-计算机系统-computer-systems)
 - [操作系统 (Operating Systems)](#-操作系统-operating-systems)
 - [计算机图形学 (Computer Graphics)](#-计算机图形学-computer-graphics)
-- [量子计算 (Quantum Computing)](#-量子计算-quantum-computing)
+- [量子计算 (Quantum Computing)](#%EF%B8%8F-量子计算-quantum-computing)
 - [贡献指南](#-贡献指南)
 - [更多资源](#-更多资源)
 
