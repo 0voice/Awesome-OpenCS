@@ -45,6 +45,7 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Introduction to C and C++ | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) |
 | CS 106B: Programming Abstractions | Stanford University | 英文 | 初级 | [Stanford Course Page](https://web.stanford.edu/class/cs106b/) |
 | Effective Programming In C And C++ | MIT | 英文 | 初级 | [MIT OCW Course Page](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) |
+|Tutorial for Beginners in C Programmin|FreeCodeCamp| 中英双语字幕 | 初级 | [B站链接](https://www.bilibili.com/video/BV1ug4wzBEhT?spm_id_from=333.788.videopod.sections&vd_source=836f76a8160d2eb8c8ea2397a180536d)|
 
 
 ## 数据结构与算法
@@ -57,6 +58,7 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 | Algorithms, Part I & II | Princeton University | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/algorithms-part1) |
 | CS 61B: Data Structures | UC Berkeley | 英文 | 中级 | [Berkeley Course Page](https://sp24.datastructur.es/) |
 | Data Structures and Algorithms in Python | UC San Diego | 英文 | 中级 | [Coursera Course Page](https://www.coursera.org/learn/data-structures-algorithms-1) |
+| 哈佛大学算法课程 | Harvard University | 中英双语字幕 | 中级 | [B站链接](https://www.bilibili.com/video/BV1tR41z4EKR/?spm_id_from=333.337.search-card.all.click&vd_source=836f76a8160d2eb8c8ea2397a180536d) |
 
 
 ## 计算机系统
