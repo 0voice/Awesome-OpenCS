@@ -102,8 +102,22 @@
 - ### [Algorithms for Big Data (COMPSCI 229r)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf)
 
 ## UC Berkeley (加州大学伯克利分校)
-
-
+- ### [CS10: The Beauty and Joy of Computing (Fall 2010)](https://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9)
+- ### [CS61A: The Structure and Interpretation of Computer Programs (Fall 2020)](https://www.youtube.com/playlist?list=PL0my2vWlgboySadi9ApfZCNIDV2O5TSDh)
+- ### [CS61B: Data Structures (Spring 2015, full classic series)](https://www.youtube.com/playlist?list=PLu0nzW8Es1x3TmpwQRLMQwCtulEd43ZY8)
+- ### [CS61B: Data Structures (Spring 2025 Live Recordings)](https://www.youtube.com/playlist?list=PLnp31xXvnfRoUqOjlnhHzmYravacOPD8p)
+- ### [CS61C: Great Ideas in Computer Architecture (Fall 2020)](https://www.youtube.com/playlist?list=PL0j-r-omG7i0-mnsxN5T4UcVS1Di0isqf)
+- ### [CS61C: Great Ideas in Computer Architecture (Spring 2015)](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+- ### [CS70: Discrete Mathematics and Probability Theory (Fall 2017)](https://www.youtube.com/playlist?list=PLu0nzW8Es1x0Ivn-757Za_ps090FJxOPd)
+- ### [CS162: Operating Systems and Systems Programming (Fall 2021)](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
+- ### [CS182: Deep Learning (Spring 2021)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- ### [CS186: Introduction to Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
+- ### [CS188: Introduction to Artificial Intelligence (Spring 2024)](https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv)
+- ### [CS189: Introduction to Machine Learning (Fall 2023)](https://www.youtube.com/playlist?list=PLOOm2AoWIPEyZazQVnIcaK2KnezpGZV-X)
+- ### [CS285: Deep Reinforcement Learning (Fall 2020)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+- ### [CS285: Deep Reinforcement Learning (Fall 2021)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+- ### [CS285: Deep Reinforcement Learning (Fall 2023)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
+- ### [CS294-158: Deep Unsupervised Learning (Spring 2024)](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U)
 
 ## CMU (卡内基梅隆大学)
 
