@@ -27,6 +27,27 @@
   - 来源: MIT 开放课程  
   - 描述: Python 入门教材，适合初学者，搭配 MIT 6.0001 课程。
 
+- **《Think Python: How to Think Like a Computer Scientist》** (Allen B. Downey)  
+  - 下载: [PDF](https://greenteapress.com/thinkpython2/thinkpython2.pdf)  
+  - 文件大小: ~2.5 MB  
+  - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+  - 来源: Green Tea Press  
+  - 描述: Python 入门教材，适合初学者，搭配 MIT 6.0001 课程。
+
+- **《Java, Java, Java: Object-Oriented Problem Solving》** (Ralph Morelli & Ralph Walde)  
+  - 下载: [PDF](https://open.umn.edu/opentextbooks/textbooks/218)  
+  - 文件大小: ~4.5 MB  
+  - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+  - 来源: Open Textbook Library  
+  - 描述: Java 面向对象编程，适合 CS1 课程，强调问题解决。
+
+- **《The Missing Link: An Introduction to Web Development and Programming》** (Michael Mendez)  
+  - 下载: [PDF](https://open.umn.edu/opentextbooks/textbooks/203)  
+  - 文件大小: ~2.9 MB  
+  - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+  - 来源: Open Textbook Library  
+  - 描述: Web 开发基础（HTML/CSS/JS/Python），适合入门编程与网络应用。
+
 ## 📊 数据结构与算法 (Data Structures and Algorithms)
 
 经典算法和数据结构资源，适合 MIT 6.006 等课程。🔢
@@ -82,12 +103,19 @@
 
 操作系统核心教材，适合 Berkeley CS162。🖱️
 
-- **《操作系统：三部曲》** (Operating Systems: Three Easy Pieces)  
-  - 下载: [PDF](http://pages.cs.wisc.edu/~remzi/OSTEP/ostep.pdf)  
-  - 文件大小: ~6.5 MB  
-  - 许可: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
-  - 来源: 作者 Remzi 和 Andrea Arpaci-Dusseau  
-  - 描述: 经典教材，覆盖进程、内存、文件系统。
+- **《The Little Book of Semaphores》** (Allen B. Downey)  
+  - 下载: [PDF](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)  
+  - 文件大小: ~1.2 MB  
+  - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
+  - 来源: Green Tea Press  
+  - 描述: 专注于并发和信号量，适合 OS 并发模块学习。
+
+- **《Practical File System Design with the Be File System》** (Dominic Giampaolo)  
+  - 下载: [PDF](https://www.nobius.org/~dbg/practical-file-system-design.pdf)  
+  - 文件大小: ~1.5 MB  
+  - 许可: 开放访问 (非商业使用)  
+  - 来源: 作者个人网站  
+  - 描述: 深入文件系统设计，以 BeOS 为例。
 
 ## 🎨 计算机图形学 (Computer Graphics)
 
