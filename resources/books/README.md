@@ -16,15 +16,6 @@
 - **[计算机系统 (Computer Systems)](computer-systems/)**  
   系统原理书籍，参考操作系统、计算机体系结构课程。
   
-- **[操作系统 (Operating Systems)](operating-systems/)**  
-  OS 核心书籍，如《现代操作系统》，Berkeley CS162 必读。
-  
-- **[计算机体系结构 (Computer Architecture)](computer-architecture/)**  
-  硬件基础书籍，结合体系结构公开课。
-  
-- **[自动驾驶 (Autonomous Driving)](autonomous-driving/)**  
-  自动驾驶相关书籍，补充专题课程资源。
-  
 - **[人工智能与机器学习 (Artificial Intelligence and Machine Learning)](artificial-intelligence-and-machine-learning/)**  
   AI/ML 圣经，如《深度学习》，覆盖 Machine Learning、Deep Learning、NLP、CV 等子主题（见子文件夹）。
   
