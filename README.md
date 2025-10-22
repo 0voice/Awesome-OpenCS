@@ -52,6 +52,19 @@
 - ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/)
 - ### [Future of AI (MIT Initiative)](https://www.futureofai.mit.edu/)
 - ### [Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/)
+- ### [Cognitive Robotics](https://ocw.mit.edu/courses/16-412j-cognitive-robotics-spring-2016/video_galleries/videos-for-advanced-lectures/)
+- ### [Computer Language Engineering](https://ocw.mit.edu/courses/6-035-computer-language-engineering-sma-5502-fall-2005/video_galleries/lecture-notes/)
+- ### [Multicore Programming Primer](https://ocw.mit.edu/courses/6-189-multicore-programming-primer-january-iap-2007/video_galleries/lecture-notes-and-video/)
+- ### [Underactuated Robotics](https://ocw.mit.edu/courses/6-832-underactuated-robotics-spring-2009/video_galleries/video-lectures/)
+- ### [Brains, Minds, and Machines (Summer Course)](https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/)
+- ### [Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](https://www.youtube.com/watch?v=lEZPfmGCEk0&t=1s)
+- ### [Mathematics of Big Data and Machine Learning](https://ocw.mit.edu/courses/res-ll-005-mathematics-of-big-data-and-machine-learning-january-iap-2020/video_galleries/class-videos/)
+- ### [Introduction to R and GIS](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/video_galleries/introduction-to-r/)
+- ### [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/video_galleries/video-lectures/)
+- ### [Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/video_galleries/lecture-videos/)
+- ### [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+
+
 ## Stanford University (斯坦福大学)
 
 
