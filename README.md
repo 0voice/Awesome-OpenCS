@@ -34,9 +34,24 @@
 - ### [The Battlecode Programming Competition](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/)
 - ### [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/)
 - ### [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/pages/puzzle-1-you-will-all-conform/)
-
-
-
+- ### [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/pages/module-one-introduction/)
+- ### [Advanced Data Structures](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/video_galleries/lecture-videos/)
+- ### [The Battlecode Programming Competition](https://ocw.mit.edu/courses/6-370-the-battlecode-programming-competition-january-iap-2013/)
+- ### [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/video_galleries/lecture-videos/)
+- ### [Programming for the Puzzled](https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/pages/puzzle-1-you-will-all-conform/)
+- ### [Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/video_galleries/lecture-videos/)
+- ### [Machine Learning for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
+- ### [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/)
+- ### [Fintech: Shaping the Financial World](https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/pages/intro-and-key-trends/)
+- ### [Introduction to Deep Learning](https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
+- ### [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c1/c1s2/)
+- ### [Introduction to Computational Neuroscience with Neuroblox](https://neuroblox.github.io/course/index.html)
+- ### [Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/resources/lecture-1-object-oriented-programming/)
+- ### [Introduction to CS and Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/lecture-1-introduction/)
+- ### [Advances in Computer Vision](https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=411d3828-5e30-41ab-b70b-b2780084a1ed&start=270)
+- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/)
+- ### [Future of AI (MIT Initiative)](https://www.futureofai.mit.edu/)
+- ### [Cryptocurrency Engineering and Design](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/)
 ## Stanford University (斯坦福大学)
 
 
