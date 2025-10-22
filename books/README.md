@@ -6,42 +6,42 @@
 
 ## 📌 目录
 
-- [编程基础 (Programming Fundamentals)](#编程基础-programming-fundamentals)
-- [数据结构与算法 (Data Structures and Algorithms)](#数据结构与算法-data-structures-and-algorithms)
-- [人工智能与机器学习 (Artificial Intelligence and Machine Learning)](#人工智能与机器学习-artificial-intelligence-and-machine-learning)
-- [计算机系统 (Computer Systems)](#计算机系统-computer-systems)
-- [操作系统 (Operating Systems)](#操作系统-operating-systems)
-- [计算机图形学 (Computer Graphics)](#计算机图形学-computer-graphics)
-- [量子计算 (Quantum Computing)](#量子计算-quantum-computing)
-- [贡献指南](#贡献指南)
-- [更多资源](#更多资源)
+- [编程基础 (Programming Fundamentals)](#-编程基础-programming-fundamentals)
+- [数据结构与算法 (Data Structures and Algorithms)](#-数据结构与算法-data-structures-and-algorithms)
+- [人工智能与机器学习 (Artificial Intelligence and Machine Learning)](#-人工智能与机器学习-artificial-intelligence-and-machine-learning)
+- [计算机系统 (Computer Systems)](#-计算机系统-computer-systems)
+- [操作系统 (Operating Systems)](#-操作系统-operating-systems)
+- [计算机图形学 (Computer Graphics)](#-计算机图形学-computer-graphics)
+- [量子计算 (Quantum Computing)](#-量子计算-quantum-computing)
+- [贡献指南](#-贡献指南)
+- [更多资源](#-更多资源)
 
 ## 📖 编程基础 (Programming Fundamentals)
 
 适合初学者，涵盖 Python 等语言的基础知识。🖥️
 
-- **《像计算机科学家一样思考：用 Python 学习》** (How to Think Like a Computer Scientist: Learning with Python)  
+- **《像计算机科学家一样思考：用 Python 学习》** (How to Think Like a Computer Scientist: Learning with Python)
   - 下载: [PDF](https://esp.mit.edu/download/9363f778ae77ff031f28b0c9d2b030f9/C3975_thinkCSpy.pdf)  
   - 文件大小: ~2.5 MB  
   - 许可: Creative Commons Attribution-ShareAlike (CC BY-SA)  
   - 来源: MIT 开放课程  
   - 描述: Python 入门教材，适合初学者，搭配 MIT 6.0001 课程。
 
-- **《Think Python: How to Think Like a Computer Scientist》** (Allen B. Downey)  
+- **《Think Python: How to Think Like a Computer Scientist》** (Allen B. Downey)
   - 下载: [PDF](https://greenteapress.com/thinkpython2/thinkpython2.pdf)  
   - 文件大小: ~2.5 MB  
   - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
   - 来源: Green Tea Press  
   - 描述: Python 入门教材，适合初学者，搭配 MIT 6.0001 课程。
 
-- **《Java, Java, Java: Object-Oriented Problem Solving》** (Ralph Morelli & Ralph Walde)  
+- **《Java, Java, Java: Object-Oriented Problem Solving》** (Ralph Morelli & Ralph Walde)
   - 下载: [PDF](https://open.umn.edu/opentextbooks/textbooks/218)  
   - 文件大小: ~4.5 MB  
   - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
   - 来源: Open Textbook Library  
   - 描述: Java 面向对象编程，适合 CS1 课程，强调问题解决。
 
-- **《The Missing Link: An Introduction to Web Development and Programming》** (Michael Mendez)  
+- **《The Missing Link: An Introduction to Web Development and Programming》** (Michael Mendez)
   - 下载: [PDF](https://open.umn.edu/opentextbooks/textbooks/203)  
   - 文件大小: ~2.9 MB  
   - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
@@ -52,13 +52,13 @@
 
 经典算法和数据结构资源，适合 MIT 6.006 等课程。🔢
 
-- **《Algorithms》** (Jeff Erickson)  
+- **《Algorithms》** (Jeff Erickson)
   - 下载: [PDF](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)  
   - 文件大小: ~20 MB  
   - 许可: Creative Commons Attribution 4.0 International (CC BY 4.0)  
   - 来源: Jeff Erickson, 伊利诺伊大学  
   - 描述: 覆盖排序、图算法等，深入浅出。
-- **《计算基础》** (Foundations of Computation)  
+- **《计算基础》** (Foundations of Computation)
   - 下载: [PDF](https://open.umn.edu/opentextbooks/textbooks/166)  
   - 文件大小: ~3.4 MB  
   - 许可: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  
