@@ -10,7 +10,6 @@
 - [数据结构与算法 (Data Structures and Algorithms)](#-数据结构与算法-data-structures-and-algorithms)
 - [人工智能与机器学习 (Artificial Intelligence and Machine Learning)](#-人工智能与机器学习-artificial-intelligence-and-machine-learning)
 - [计算机系统 (Computer Systems)](#%EF%B8%8F-计算机系统-computer-systems)
-- [操作系统 (Operating Systems)](#-操作系统-operating-systems)
 - [计算机图形学 (Computer Graphics)](#-计算机图形学-computer-graphics)
 - [量子计算 (Quantum Computing)](#%EF%B8%8F-量子计算-quantum-computing)
 - [贡献指南](#-贡献指南)
@@ -98,10 +97,6 @@
   - 许可: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
   - 来源: MIT Press Open  
   - 描述: 系统级思维与计算原理。
-
-## 💾 操作系统 (Operating Systems)
-
-操作系统核心教材，适合 Berkeley CS162。🖱️
 
 - **《The Little Book of Semaphores》** (Allen B. Downey)  
   - 下载: [PDF](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)  
