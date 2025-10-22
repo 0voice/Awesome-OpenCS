@@ -24,8 +24,8 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 - [计算机系统](#计算机系统)
   - [操作系统](#操作系统)
   - [体系结构](#体系结构)
-- [自动驾驶](#自动驾驶)
 - [人工智能与机器学习](#人工智能与机器学习)
+  - [自动驾驶](#自动驾驶)
   - [机器学习](#机器学习)
   - [深度学习](#深度学习)
   - [自然语言处理（NLP）](#自然语言处理nlp)
@@ -137,22 +137,10 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 - **如何选择**：中文入门选浙江大学“计算机组成”；系统学习体系结构选UC Berkeley CS61C；研究并行计算方向优先Stanford CS149。
 - **子主题导航**：涵盖“CPU设计”“内存层次结构”“指令集架构”“并行计算模型”，适合从硬件到软件逐层理解计算机结构。
 
-## 自动驾驶
-以下课程涵盖自动驾驶核心技术，包括感知、决策、控制及系统集成，适合学习自动驾驶算法与工程实践。
-
-| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
-|--------|------|------|------|----------|
-| Self-Driving Cars Specialization | University of Toronto (Coursera) | 英文 | 中级 | [Coursera 专项课程](https://www.coursera.org/specializations/self-driving-cars) |
-| CS330: Deep Multi-Task and Meta Learning for Autonomous Driving | Stanford University | 英文 | 高级 | [Stanford CS330 官网](https://cs330.stanford.edu/) |
-| Autonomous Vehicles: Planning for Urban Driving | University of Pennsylvania (edX) | 英文 | 中级 | [edX 课程页](https://www.edx.org/course/autonomous-vehicles-planning-for-urban-driving) |
-
-#### 说明
-- **如何选择**：入门推荐University of Toronto的Coursera专项课，涵盖完整技术栈；进阶学习者可选择Stanford University的CS330（聚焦深度学习在自动驾驶中的多任务应用）或University of Pennsylvania的课程（侧重城市道路规划）。
-- **子主题导航**：课程章节通常包含“感知算法”“路径规划”“车辆控制”等子主题，可直接跳转学习。
 
 ## 人工智能与机器学习
 
-以下课程涵盖人工智能与机器学习的核心内容，包括机器学习、深度学习和神经网络等，适合探索AI领域的前沿技术。
+以下课程涵盖人工智能与机器学习的核心内容，包括机器学习、深度学习、自动驾驶和神经网络等，适合探索AI领域的前沿技术。
 
 ### 机器学习
 
@@ -206,6 +194,17 @@ Awesome-OpenCS 是一个精心整理的开源计算机科学课程资源库，�
 - **如何选择**：入门推荐DeepLearning.AI的专项课；系统学习理论与传统算法可选择University of Illinois Urbana-Champaign的ECE408/CS447；深入深度学习视觉模型优先选Stanford University的CS231n。
 - **子主题导航**：课程包含“卷积神经网络”“目标检测”“图像分割”等子主题，可直接定位学习。
 
+### 自动驾驶
+
+| 课程名 | 来源 | 语言 | 难度 | 课程链接 |
+|--------|------|------|------|----------|
+| Self-Driving Cars Specialization | University of Toronto (Coursera) | 英文 | 中级 | [Coursera 专项课程](https://www.coursera.org/specializations/self-driving-cars) |
+| CS330: Deep Multi-Task and Meta Learning for Autonomous Driving | Stanford University | 英文 | 高级 | [Stanford CS330 官网](https://cs330.stanford.edu/) |
+| Autonomous Vehicles: Planning for Urban Driving | University of Pennsylvania (edX) | 英文 | 中级 | [edX 课程页](https://www.edx.org/course/autonomous-vehicles-planning-for-urban-driving) |
+
+#### 说明
+- **如何选择**：入门推荐University of Toronto的Coursera专项课，涵盖完整技术栈；进阶学习者可选择Stanford University的CS330（聚焦深度学习在自动驾驶中的多任务应用）或University of Pennsylvania的课程（侧重城市道路规划）。
+- **子主题导航**：课程章节通常包含“感知算法”“路径规划”“车辆控制”等子主题，可直接跳转学习。
   
 ## 数据库与大数据
 
