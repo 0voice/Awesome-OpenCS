@@ -90,6 +90,90 @@
    - 查看: [PDF](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
    - 描述: 为Python程序员设计的概率与统计入门，使用真实数据集探索实际问题。
 
+### 《The Shallow and the Deep: A biased introduction to neural networks and old school machine learning》
+   - 作者：Michael Biehl
+   - 查看: [PDF](https://www.cs.rug.nl/~biehl/ShallowDeep.pdf)
+   - 描述: 神经网络与经典机器学习的偏向性介绍，强调分类和回归的基础概念。
+
+### 《Basics of Compiler Design》
+   - 作者：Torben Ægidius Mogensen
+   - 查看: [PDF](https://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
+   - 描述: 编译器设计基础，涵盖词法分析、语法分析、语义分析和代码生成等核心主题，适合计算机科学学生。
+
+### 《Introduction to Compilers and Language Design》
+   - 作者：Douglas Thain
+   - 查看: [PDF](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf)
+   - 描述: 编译器与语言设计导论，使用自定义语言示例解释编译过程，从扫描到优化，强调实践实现。
+
+### 《Compiler Design in C》
+   - 作者：Allen I. Holub
+   - 查看: [PDF](https://holub.com/goodies/compiler/compilerDesignInC.pdf)
+   - 描述: 使用C语言的编译器设计，介绍递归下降解析器和表达式编译，适合学习编译器内部机制。
+
+### 《Discrete Mathematics for Computer Science》
+   - 作者：Ken Bogart, Cliff Stein, Robert L. Drysdale
+   - 查看: [PDF](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
+   - 描述: 计算机科学离散数学，涵盖证明方法、逻辑、集合和图论，强调算法应用。
+
+### 《Discrete Mathematics: Elementary and Beyond》
+   - 作者：L. Lovász, J. Pelikán, K. Vesztergombi
+   - 查看: [PDF](http://ndl.ethernet.edu.et/bitstream/123456789/24208/1/L.%20Lov%C3%A1sz.pdf)
+   - 描述: 离散数学基础与进阶，介绍组合数学和图论，适合初学者扩展数学思维。
+
+### 《Invitation to Discrete Mathematics》
+   - 作者：Jiří Matoušek, Jaroslav Nešetřil
+   - 查看: [PDF](https://dpvipracollege.ac.ke/wp-content/uploads/2023/01/Invitation-to-Discrete-Mathematics-Nesetril-Matousek-PDFDrive-.pdf)
+   - 描述: 离散数学经典教材，聚焦组合优化、算法设计等核心主题，通过问题驱动式教学培养逻辑思维与解题能力。
+
+### 《Logic and Discrete Mathematics: A Concise Introduction》
+   - 作者：Willem Conradie, Valentin Goranko
+   - 查看: [PDF](https://www.academia.edu/download/58009457/Logic_and_Discrete_Mathematics_Willem_Conradie_and_Valentin_Goranko20200511-1-1q8z1w3.pdf)
+   - 描述: 逻辑与离散数学简明导论，涵盖命题逻辑、集合论和计算复杂性。
+
+### 《Discrete Mathematics: An Open Introduction》
+   - 作者：Oscar Levin
+   - 查看: [PDF](https://discrete.openmathbooks.org/pdfs/dmoi-tablet.pdf)
+   - 描述: 离散数学开放导论，覆盖逻辑、证明、集合、函数、数论、组合、图论等主题，适合计算机科学和数学学生。
+
+### 《Machine Learning》
+   - 作者：Tom M. Mitchell
+   - 查看: [PDF](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf)
+   - 描述: 机器学习领域的经典教材，系统介绍核心算法、统计基础和实际应用，适合研究生或高级本科生。
+
+### 《Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp》
+   - 作者：Peter Norvig
+   - 查看: [PDF](https://upload.wikimedia.org/wikipedia/commons/d/d4/Peter_Norvig._Paradigms_of_AI_Programming.pdf)
+   - 描述: 通过Common Lisp构建真实AI系统案例，探讨编程范式和AI问题解决，Lisp爱好者和AI从业者的必读。
+
+### 《Artificial Intelligence: Foundations of Computational Agents - 3rd Edition》
+   - 作者：David L. Poole, Alan K. Mackworth
+   - 查看: [PDF](https://mrce.in/ebooks/AI%20Foundations%20of%20Computational%20Agents%203rd%20Ed.pdf)
+   - 描述: 计算代理基础的AI教材，整合理论与实践，覆盖搜索、规划和不确定性推理，强调社会影响。
+
+### 《Introduction to Artificial Intelligence - 2nd Edition》
+   - 作者：Philip C. Jackson Jr.
+   - 查看: [PDF](https://vtda.org/books/Computing/Programming/IntroductionToArtificialIntelligence2ndEd_PhilipCJacksonJr.pdf)
+   - 描述: AI通用入门，讨论问题求解、模式识别和自然语言理解，适合初学者理解AI历史与方法。
+
+### 《Explorations in Artificial Intelligence and Machine Learning》
+   - 作者：集体编著
+   - 查看: [PDF](https://dl.icdst.org/pdfs/files4/b8d6714bacecdd37006d8cc5c896889e.pdf)
+   - 描述: AI与机器学习的探索性介绍，涵盖决策树、隐马尔可夫模型和强化学习，强调实践方法。
+
+### 《Artificial Intelligence》
+   - 作者：Patrick Henry Winston
+   - 查看: [PDF](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf)
+   - 描述: MIT经典AI课程教材，聚焦知识表示、搜索算法和机器学习，结合哲学与工程视角。
+
+### 《The Handbook of Artificial Intelligence - Volume 1》
+   - 作者：Paul R. Cohen, Edward A. Feigenbaum (编)
+   - 查看: [PDF](https://ia800201.us.archive.org/5/items/handbookofartific01barr/handbookofartific01barr.pdf)
+   - 描述: AI手册第一卷，总结早期AI研究，包括感知、语言和问题求解的计算模型。
+
+### 《Introduction to Machine Learning with Python》
+   - 作者：Andreas C. Müller, Sarah Guido
+   - 查看: [PDF](https://dl.tehrandata.org/Introduction%20to%20Machine%20Learning%20with%20Python%20OReilly.pdf)
+   - 描述: 使用scikit-learn的机器学习实践指南，从数据处理到模型评估，适合Python开发者入门。
 ## 🤝 贡献指南
 
 欢迎为本仓库贡献更多开源免费资源！🙌 请遵循以下步骤：
