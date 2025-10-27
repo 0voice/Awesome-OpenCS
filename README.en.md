@@ -220,7 +220,7 @@
 - ### [CS374: Introduction to Algorithms & Models of Computation (Fall 2023)](https://mediaspace.illinois.edu/channel/channelid/308117622)
 
 ## Cornell University
-- ### [Machine Learning for Data Science (CS 4786)](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+- ### [Cornell CS4780 Machine Learning for Decision Making SP17](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - ### [Algorithms (CS 4820)](https://www.youtube.com/watch?v=Iapz9pb5eRU)
 - ### [Introduction to Database Systems (CS 4320)](http://www.databaselecture.com/)
 - ### [Computer Architecture (CS 3410)](https://www.youtube.com/@CornellCS-tt8ow)
