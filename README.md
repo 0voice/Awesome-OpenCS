@@ -38,8 +38,8 @@
 - ### [Fintech: Shaping the Financial World](https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/pages/intro-and-key-trends/) - 金融科技：塑造金融世界
 - ### [Future of AI (MIT Initiative)](https://www.futureofai.mit.edu/) - 人工智能的未来（MIT倡议）
 - ### [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/video_galleries/lecture-videos/) - 几何折叠算法：连杆、折纸与多面体
-- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) - 算法导论
-- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - 算法导论
+- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/) - 算法导论（2020 春季）
+- ### [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - 算法导论（2011 秋季）
 - ### [Introduction to Computational Neuroscience with Neuroblox](https://neuroblox.github.io/course/index.html) - 计算神经科学导论（含Neuroblox工具）
 - ### [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall22/images_abstractions/images/) - 计算思维导论
 - ### [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/video_galleries/lecture-videos/) - 计算思维与数据科学导论
