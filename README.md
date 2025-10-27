@@ -227,6 +227,7 @@
 - ### [Algorithms (CS 4820)](https://www.youtube.com/watch?v=Iapz9pb5eRU) - 算法（CS 4820）
 - ### [Introduction to Database Systems (CS 4320)](http://www.databaselecture.com/) - 数据库系统导论（CS 4320）
 - ### [Computer Architecture (CS 3410)](https://www.youtube.com/@CornellCS-tt8ow) - 计算机体系结构（CS 3410）
+- ### [Computer Graphics (CS 4620/5620)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) - 计算机图形学
 ## 🤝 贡献指南
 
 欢迎为 **Awesome-OpenCS** 添加内容！🙌 请遵循以下步骤：
