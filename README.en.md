@@ -224,6 +224,7 @@
 - ### [Algorithms (CS 4820)](https://www.youtube.com/watch?v=Iapz9pb5eRU)
 - ### [Introduction to Database Systems (CS 4320)](http://www.databaselecture.com/)
 - ### [Computer Architecture (CS 3410)](https://www.youtube.com/@CornellCS-tt8ow)
+- ### [Computer Graphics (CS 4620/5620)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) 
 
 ## 🤝 Contribution Guidelines
 
