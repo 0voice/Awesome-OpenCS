@@ -16,6 +16,7 @@
 - [ETH Zurich](#eth-zurich)
 - [University of Toronto](#university-of-toronto)
 - [UIUC (University of Illinois Urbana-Champaign)](#uiuc-university-of-illinois-urbana-champaign)
+- [Cornell University](#cornell-university)
 - [Contribution Guidelines](#-contribution-guidelines)
 - [Resource Notes](#-resource-notes)
 
@@ -218,6 +219,11 @@
 - ### [CS225: Data Structures (Fall 2025 Lectures)](https://mediaspace.illinois.edu/channel/CS%2B225%2BFall%2B2025/383337492)
 - ### [CS374: Introduction to Algorithms & Models of Computation (Fall 2023)](https://mediaspace.illinois.edu/channel/channelid/308117622)
 
+## Cornell University
+- ### [Machine Learning for Data Science (CS 4786)](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+- ### [Algorithms (CS 4820)](https://www.youtube.com/watch?v=Iapz9pb5eRU)
+- ### [Introduction to Database Systems (CS 4320)](http://www.databaselecture.com/)
+- ### [Computer Architecture (CS 3410)](https://www.youtube.com/@CornellCS-tt8ow)
 
 ## 🤝 Contribution Guidelines
 
