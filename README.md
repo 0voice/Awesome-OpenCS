@@ -223,7 +223,7 @@
 - ### [CS374: Introduction to Algorithms & Models of Computation (Fall 2023)](https://mediaspace.illinois.edu/channel/channelid/308117622) - CS374：算法与计算模型导论（2023年秋季）
 
 ## Cornell University (康奈尔大学)
-- ### [Machine Learning for Data Science (CS 4786)](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) - 数据科学机器学习（CS 4786）
+- ### [Cornell CS4780 Machine Learning for Decision Making](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) - 机器学习决策（CS 4780）
 - ### [Algorithms (CS 4820)](https://www.youtube.com/watch?v=Iapz9pb5eRU) - 算法（CS 4820）
 - ### [Introduction to Database Systems (CS 4320)](http://www.databaselecture.com/) - 数据库系统导论（CS 4320）
 - ### [Computer Architecture (CS 3410)](https://www.youtube.com/@CornellCS-tt8ow) - 计算机体系结构（CS 3410）
